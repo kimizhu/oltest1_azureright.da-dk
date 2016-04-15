@@ -69,7 +69,7 @@
  [oltest1_azureright\v1\Image\AzRMS_QuickStartSteps4.PNG](https://github.com/kimizhu/oltest1_azureright/blob/c67e9099e92ae236888c104c177a9624ec146b01/oltest1_azureright/v1/Image/AzRMS_QuickStartSteps4.PNG) | HandedOffSuccess | [Details](#da8a2ad9efac2ab15d948213b44d73961c5d533751)
  [oltest1_azureright\v1\Image\AzRMS_QuickStartSteps5.PNG](https://github.com/kimizhu/oltest1_azureright/blob/c67e9099e92ae236888c104c177a9624ec146b01/oltest1_azureright/v1/Image/AzRMS_QuickStartSteps5.PNG) | HandedOffSuccess | [Details](#9fbe0ab200bd0fc7a6a402f2dbb37eaa4fef02ba52)
  [oltest1_azureright\v1\Image\AzRMS_QuickStartStepsAll.PNG](https://github.com/kimizhu/oltest1_azureright/blob/c67e9099e92ae236888c104c177a9624ec146b01/oltest1_azureright/v1/Image/AzRMS_QuickStartStepsAll.PNG) | HandedOffSuccess | [Details](#8d942d4f95ec61aba329a044fabbe354f2cbe9d453)
- [oltest1_azureright\v1\Image\AzRMS_RemoveProtection_PriceList.png](https://github.com/kimizhu/oltest1_azureright/blob/c67e9099e92ae236888c104c177a9624ec146b01/oltest1_azureright/v1/Image/AzRMS_RemoveProtection_PriceList.png) | HandedOffSuccess | [Details](#66482e461455df133678a4383174853a0cae037454)
+ [oltest1_azureright\v1\Image\AzRMS_RemoveProtection_PriceList.png](https://github.com/kimizhu/oltest1_azureright/blob/5fb792114faa09d27a323e1b5e95dbd46874bfed/oltest1_azureright/v1/Image/AzRMS_RemoveProtection_PriceList.png) | HandedOffSuccess | [Details](#66482e461455df133678a4383174853a0cae037454)
  [oltest1_azureright\v1\Image\AzRMS_SecretColaFormula_final.png](https://github.com/kimizhu/oltest1_azureright/blob/c67e9099e92ae236888c104c177a9624ec146b01/oltest1_azureright/v1/Image/AzRMS_SecretColaFormula_final.png) | HandedOffSuccess | [Details](#7f4eac77d7cc3ea6f7769710ca483467345339f356)
  [oltest1_azureright\v1\Image\AzRMS_SharedProtected_CoAuthor.PNG](https://github.com/kimizhu/oltest1_azureright/blob/c67e9099e92ae236888c104c177a9624ec146b01/oltest1_azureright/v1/Image/AzRMS_SharedProtected_CoAuthor.PNG) | HandedOffSuccess | [Details](#0923462fb2b122cfcbc6a6445ab17d963638837657)
  [oltest1_azureright\v1\Image\AzRMS_SharedProtected_Confidential.PNG](https://github.com/kimizhu/oltest1_azureright/blob/c67e9099e92ae236888c104c177a9624ec146b01/oltest1_azureright/v1/Image/AzRMS_SharedProtected_Confidential.PNG) | HandedOffSuccess | [Details](#bf1efb06537530a62379abe6ac4bf8c47580794f58)
@@ -170,19 +170,19 @@
 ## <a name='ignored-list'></a> Ignored File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [.gitignore](https://github.com/kimizhu/oltest1_azureright/blob/c67e9099e92ae236888c104c177a9624ec146b01/.gitignore) | Ignored | [Details](#6b4edbda7411984fc9dbafbbb8e291e0bae6646d0)
+ [.gitignore](https://github.com/kimizhu/oltest1_azureright/blob/80e297d931ec015d530ffd9e401007f584fbce1b/.gitignore) | Ignored | [Details](#6b4edbda7411984fc9dbafbbb8e291e0bae6646d0)
  [.localization-config](https://github.com/kimizhu/oltest1_azureright/blob/c67e9099e92ae236888c104c177a9624ec146b01/.localization-config) | Ignored | [Details](#6781a3daddbae435a6a4b5756fcc53f6b99321471)
- [.openpublishing.build.ps1](https://github.com/kimizhu/oltest1_azureright/blob/c67e9099e92ae236888c104c177a9624ec146b01/.openpublishing.build.ps1) | Ignored | [Details](#06f04686df47f623e5fca8039712d22134e6d5a82)
- [.openpublishing.publish.config.json](https://github.com/kimizhu/oltest1_azureright/blob/c67e9099e92ae236888c104c177a9624ec146b01/.openpublishing.publish.config.json) | Ignored | [Details](#365b95c72df1058964058041edb3e77f6970d2033)
- [oltest1_azureright\v1\docfx.json](https://github.com/kimizhu/oltest1_azureright/blob/c67e9099e92ae236888c104c177a9624ec146b01/oltest1_azureright/v1/docfx.json) | Ignored | [Details](#846564ce1da2f74fad9d1b40db0688c72ac3c2454)
- [oltest1_azureright\v1\Image\All_Symbols_Cloud.jpg](https://github.com/kimizhu/oltest1_azureright/blob/c67e9099e92ae236888c104c177a9624ec146b01/oltest1_azureright/v1/Image/All_Symbols_Cloud.jpg) | Ignored | [Details](#811c78666692e6140b800b3f864f3d783e5712f123)
- [oltest1_azureright\v1\Image\AzRMS_RemoveProtectionWorkFolders.png](https://github.com/kimizhu/oltest1_azureright/blob/c67e9099e92ae236888c104c177a9624ec146b01/oltest1_azureright/v1/Image/AzRMS_RemoveProtectionWorkFolders.png) | Ignored | [Details](#d6c391372decd8a5697f2ce2c4d5faa08bd302a855)
- [oltest1_azureright\v1\Image\AzRMS_Tutorial_1Draft.png](https://github.com/kimizhu/oltest1_azureright/blob/c67e9099e92ae236888c104c177a9624ec146b01/oltest1_azureright/v1/Image/AzRMS_Tutorial_1Draft.png) | Ignored | [Details](#38472b7d61e3808cdc0f65a378be5cb1a5be270790)
- [oltest1_azureright\v1\Image\AzRMS_Tutorial_2_Final.png](https://github.com/kimizhu/oltest1_azureright/blob/c67e9099e92ae236888c104c177a9624ec146b01/oltest1_azureright/v1/Image/AzRMS_Tutorial_2_Final.png) | Ignored | [Details](#39f3a5bceb580f8cf0fb2117eb04f090874b62ba91)
- [oltest1_azureright\v1\Image\AzRMS_Tutorial_2_Final_50_.png](https://github.com/kimizhu/oltest1_azureright/blob/c67e9099e92ae236888c104c177a9624ec146b01/oltest1_azureright/v1/Image/AzRMS_Tutorial_2_Final_50_.png) | Ignored | [Details](#c5c3f0b043042b6cc2e8895bb4bca27e6762b08092)
- [oltest1_azureright\v1\Image\AzRMS_Tutorial_3_Final2.png](https://github.com/kimizhu/oltest1_azureright/blob/c67e9099e92ae236888c104c177a9624ec146b01/oltest1_azureright/v1/Image/AzRMS_Tutorial_3_Final2.png) | Ignored | [Details](#0a855d29a709c18e0819ac5a4afd097f3d1f6f3d94)
- [oltest1_azureright\v1\Image\Azure-RMS_Step-4_Cascade.png](https://github.com/kimizhu/oltest1_azureright/blob/c67e9099e92ae236888c104c177a9624ec146b01/oltest1_azureright/v1/Image/Azure-RMS_Step-4_Cascade.png) | Ignored | [Details](#4e662625c2d4459b521253299e71e601c1f5401a101)
- [oltest1_azureright\v1\Image\Azure-RMS_Step-5_Cascade.png](https://github.com/kimizhu/oltest1_azureright/blob/c67e9099e92ae236888c104c177a9624ec146b01/oltest1_azureright/v1/Image/Azure-RMS_Step-5_Cascade.png) | Ignored | [Details](#fe55e2425573de7bbb0d402b4b4428aad8108098102)
+ [.openpublishing.build.ps1](https://github.com/kimizhu/oltest1_azureright/blob/69283cfaf30aa84ca915e4723dfe3dbb6679f43a/.openpublishing.build.ps1) | Ignored | [Details](#06f04686df47f623e5fca8039712d22134e6d5a82)
+ [.openpublishing.publish.config.json](https://github.com/kimizhu/oltest1_azureright/blob/ff48d67553c40edf83c391b1660408f2b52f9cfa/.openpublishing.publish.config.json) | Ignored | [Details](#365b95c72df1058964058041edb3e77f6970d2033)
+ [oltest1_azureright\v1\docfx.json](https://github.com/kimizhu/oltest1_azureright/blob/f482684417e92d20f84fd5c0f37a542b76af20de/oltest1_azureright/v1/docfx.json) | Ignored | [Details](#846564ce1da2f74fad9d1b40db0688c72ac3c2454)
+ [oltest1_azureright\v1\Image\All_Symbols_Cloud.jpg](https://github.com/kimizhu/oltest1_azureright/blob/5fb792114faa09d27a323e1b5e95dbd46874bfed/oltest1_azureright/v1/Image/All_Symbols_Cloud.jpg) | Ignored | [Details](#811c78666692e6140b800b3f864f3d783e5712f123)
+ [oltest1_azureright\v1\Image\AzRMS_RemoveProtectionWorkFolders.png](https://github.com/kimizhu/oltest1_azureright/blob/5fb792114faa09d27a323e1b5e95dbd46874bfed/oltest1_azureright/v1/Image/AzRMS_RemoveProtectionWorkFolders.png) | Ignored | [Details](#d6c391372decd8a5697f2ce2c4d5faa08bd302a855)
+ [oltest1_azureright\v1\Image\AzRMS_Tutorial_1Draft.png](https://github.com/kimizhu/oltest1_azureright/blob/5fb792114faa09d27a323e1b5e95dbd46874bfed/oltest1_azureright/v1/Image/AzRMS_Tutorial_1Draft.png) | Ignored | [Details](#38472b7d61e3808cdc0f65a378be5cb1a5be270790)
+ [oltest1_azureright\v1\Image\AzRMS_Tutorial_2_Final.png](https://github.com/kimizhu/oltest1_azureright/blob/5fb792114faa09d27a323e1b5e95dbd46874bfed/oltest1_azureright/v1/Image/AzRMS_Tutorial_2_Final.png) | Ignored | [Details](#39f3a5bceb580f8cf0fb2117eb04f090874b62ba91)
+ [oltest1_azureright\v1\Image\AzRMS_Tutorial_2_Final_50_.png](https://github.com/kimizhu/oltest1_azureright/blob/5fb792114faa09d27a323e1b5e95dbd46874bfed/oltest1_azureright/v1/Image/AzRMS_Tutorial_2_Final_50_.png) | Ignored | [Details](#c5c3f0b043042b6cc2e8895bb4bca27e6762b08092)
+ [oltest1_azureright\v1\Image\AzRMS_Tutorial_3_Final2.png](https://github.com/kimizhu/oltest1_azureright/blob/5fb792114faa09d27a323e1b5e95dbd46874bfed/oltest1_azureright/v1/Image/AzRMS_Tutorial_3_Final2.png) | Ignored | [Details](#0a855d29a709c18e0819ac5a4afd097f3d1f6f3d94)
+ [oltest1_azureright\v1\Image\Azure-RMS_Step-4_Cascade.png](https://github.com/kimizhu/oltest1_azureright/blob/5fb792114faa09d27a323e1b5e95dbd46874bfed/oltest1_azureright/v1/Image/Azure-RMS_Step-4_Cascade.png) | Ignored | [Details](#4e662625c2d4459b521253299e71e601c1f5401a101)
+ [oltest1_azureright\v1\Image\Azure-RMS_Step-5_Cascade.png](https://github.com/kimizhu/oltest1_azureright/blob/5fb792114faa09d27a323e1b5e95dbd46874bfed/oltest1_azureright/v1/Image/Azure-RMS_Step-5_Cascade.png) | Ignored | [Details](#fe55e2425573de7bbb0d402b4b4428aad8108098102)
  [oltest1_azureright\v1\Topic\Activating_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Activating_Azure_Rights_Management.md) | Ignored | [Details](#9a4fa874a866c63638dcda1d9c5e686e12da70d2130)
  [oltest1_azureright\v1\Topic\Administering_Azure_Rights_Management_by_Using_Windows_PowerShell.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Administering_Azure_Rights_Management_by_Using_Windows_PowerShell.md) | Ignored | [Details](#3bd27fb713e2b0a71289cd8028bc2d5406241eae132)
  [oltest1_azureright\v1\Topic\Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Azure_Rights_Management.md) | Ignored | [Details](#cdfcad34349b041ceb2743018e43db141a324d1b133)
@@ -248,7 +248,7 @@
  [oltest1_azureright\v1\Topic\What_is_Azure_Rights_Management_.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/What_is_Azure_Rights_Management_.md) | Ignored | [Details](#8590c552cf1c89ebecffa587090d3ab84711aa9e211)
 
 ## Item Details
-##### <a name='6b4edbda7411984fc9dbafbbb8e291e0bae6646d0'></a> Source: [.gitignore](https://github.com/kimizhu/oltest1_azureright/blob/c67e9099e92ae236888c104c177a9624ec146b01/.gitignore)
+##### <a name='6b4edbda7411984fc9dbafbbb8e291e0bae6646d0'></a> Source: [.gitignore](https://github.com/kimizhu/oltest1_azureright/blob/80e297d931ec015d530ffd9e401007f584fbce1b/.gitignore)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -272,7 +272,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='06f04686df47f623e5fca8039712d22134e6d5a82'></a> Source: [.openpublishing.build.ps1](https://github.com/kimizhu/oltest1_azureright/blob/c67e9099e92ae236888c104c177a9624ec146b01/.openpublishing.build.ps1)
+##### <a name='06f04686df47f623e5fca8039712d22134e6d5a82'></a> Source: [.openpublishing.build.ps1](https://github.com/kimizhu/oltest1_azureright/blob/69283cfaf30aa84ca915e4723dfe3dbb6679f43a/.openpublishing.build.ps1)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -284,7 +284,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='365b95c72df1058964058041edb3e77f6970d2033'></a> Source: [.openpublishing.publish.config.json](https://github.com/kimizhu/oltest1_azureright/blob/c67e9099e92ae236888c104c177a9624ec146b01/.openpublishing.publish.config.json)
+##### <a name='365b95c72df1058964058041edb3e77f6970d2033'></a> Source: [.openpublishing.publish.config.json](https://github.com/kimizhu/oltest1_azureright/blob/ff48d67553c40edf83c391b1660408f2b52f9cfa/.openpublishing.publish.config.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -296,7 +296,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='846564ce1da2f74fad9d1b40db0688c72ac3c2454'></a> Source: [oltest1_azureright\v1\docfx.json](https://github.com/kimizhu/oltest1_azureright/blob/c67e9099e92ae236888c104c177a9624ec146b01/oltest1_azureright/v1/docfx.json)
+##### <a name='846564ce1da2f74fad9d1b40db0688c72ac3c2454'></a> Source: [oltest1_azureright\v1\docfx.json](https://github.com/kimizhu/oltest1_azureright/blob/f482684417e92d20f84fd5c0f37a542b76af20de/oltest1_azureright/v1/docfx.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -542,7 +542,7 @@
 * Dependency From: oltest1_azureright\v1\Topic\Microsoft_Rights_Management_sharing_application_user_guide_-_original_publication.md, oltest1_azureright\v1\Topic\Revised_Version_3__Microsoft_Rights_Management_sharing_application_guide.md, oltest1_azureright\v1\Topic\Rights_Management_sharing_application_user_guide_-_revision_for_single_topic.md
 * [Back to Top](#report-top)
 
-##### <a name='811c78666692e6140b800b3f864f3d783e5712f123'></a> Source: [oltest1_azureright\v1\Image\All_Symbols_Cloud.jpg](https://github.com/kimizhu/oltest1_azureright/blob/c67e9099e92ae236888c104c177a9624ec146b01/oltest1_azureright/v1/Image/All_Symbols_Cloud.jpg)
+##### <a name='811c78666692e6140b800b3f864f3d783e5712f123'></a> Source: [oltest1_azureright\v1\Image\All_Symbols_Cloud.jpg](https://github.com/kimizhu/oltest1_azureright/blob/5fb792114faa09d27a323e1b5e95dbd46874bfed/oltest1_azureright/v1/Image/All_Symbols_Cloud.jpg)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -944,7 +944,7 @@
 * Dependency From: oltest1_azureright\v1\Topic\Quick_Start_Tutorial_for_Azure_Rights_Management.md
 * [Back to Top](#report-top)
 
-##### <a name='66482e461455df133678a4383174853a0cae037454'></a> Source: [oltest1_azureright\v1\Image\AzRMS_RemoveProtection_PriceList.png](https://github.com/kimizhu/oltest1_azureright/blob/c67e9099e92ae236888c104c177a9624ec146b01/oltest1_azureright/v1/Image/AzRMS_RemoveProtection_PriceList.png)
+##### <a name='66482e461455df133678a4383174853a0cae037454'></a> Source: [oltest1_azureright\v1\Image\AzRMS_RemoveProtection_PriceList.png](https://github.com/kimizhu/oltest1_azureright/blob/5fb792114faa09d27a323e1b5e95dbd46874bfed/oltest1_azureright/v1/Image/AzRMS_RemoveProtection_PriceList.png)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [66482e461455df133678a4383174853a0cae0374.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/e69d9b51208f022e1a8a66ed0e253747ec3dee7e/ol-handoff/kimizhu/oltest1_azureright.da-dk/master/66482e461455df133678a4383174853a0cae0374.png)
@@ -957,7 +957,7 @@
 * Dependency From: oltest1_azureright\v1\Topic\Remove_protection_from_a_file_by_using_the_Rights_Management_sharing_application.md, oltest1_azureright\v1\Topic\Rights_Management_sharing_application_user_guide_-_revision_for_single_topic.md
 * [Back to Top](#report-top)
 
-##### <a name='d6c391372decd8a5697f2ce2c4d5faa08bd302a855'></a> Source: [oltest1_azureright\v1\Image\AzRMS_RemoveProtectionWorkFolders.png](https://github.com/kimizhu/oltest1_azureright/blob/c67e9099e92ae236888c104c177a9624ec146b01/oltest1_azureright/v1/Image/AzRMS_RemoveProtectionWorkFolders.png)
+##### <a name='d6c391372decd8a5697f2ce2c4d5faa08bd302a855'></a> Source: [oltest1_azureright\v1\Image\AzRMS_RemoveProtectionWorkFolders.png](https://github.com/kimizhu/oltest1_azureright/blob/5fb792114faa09d27a323e1b5e95dbd46874bfed/oltest1_azureright/v1/Image/AzRMS_RemoveProtectionWorkFolders.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1411,7 +1411,7 @@
 * Dependency From: oltest1_azureright\v1\Topic\Quick_Start_Tutorial_for_Azure_Rights_Management.md
 * [Back to Top](#report-top)
 
-##### <a name='38472b7d61e3808cdc0f65a378be5cb1a5be270790'></a> Source: [oltest1_azureright\v1\Image\AzRMS_Tutorial_1Draft.png](https://github.com/kimizhu/oltest1_azureright/blob/c67e9099e92ae236888c104c177a9624ec146b01/oltest1_azureright/v1/Image/AzRMS_Tutorial_1Draft.png)
+##### <a name='38472b7d61e3808cdc0f65a378be5cb1a5be270790'></a> Source: [oltest1_azureright\v1\Image\AzRMS_Tutorial_1Draft.png](https://github.com/kimizhu/oltest1_azureright/blob/5fb792114faa09d27a323e1b5e95dbd46874bfed/oltest1_azureright/v1/Image/AzRMS_Tutorial_1Draft.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1423,7 +1423,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='39f3a5bceb580f8cf0fb2117eb04f090874b62ba91'></a> Source: [oltest1_azureright\v1\Image\AzRMS_Tutorial_2_Final.png](https://github.com/kimizhu/oltest1_azureright/blob/c67e9099e92ae236888c104c177a9624ec146b01/oltest1_azureright/v1/Image/AzRMS_Tutorial_2_Final.png)
+##### <a name='39f3a5bceb580f8cf0fb2117eb04f090874b62ba91'></a> Source: [oltest1_azureright\v1\Image\AzRMS_Tutorial_2_Final.png](https://github.com/kimizhu/oltest1_azureright/blob/5fb792114faa09d27a323e1b5e95dbd46874bfed/oltest1_azureright/v1/Image/AzRMS_Tutorial_2_Final.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1435,7 +1435,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='c5c3f0b043042b6cc2e8895bb4bca27e6762b08092'></a> Source: [oltest1_azureright\v1\Image\AzRMS_Tutorial_2_Final_50_.png](https://github.com/kimizhu/oltest1_azureright/blob/c67e9099e92ae236888c104c177a9624ec146b01/oltest1_azureright/v1/Image/AzRMS_Tutorial_2_Final_50_.png)
+##### <a name='c5c3f0b043042b6cc2e8895bb4bca27e6762b08092'></a> Source: [oltest1_azureright\v1\Image\AzRMS_Tutorial_2_Final_50_.png](https://github.com/kimizhu/oltest1_azureright/blob/5fb792114faa09d27a323e1b5e95dbd46874bfed/oltest1_azureright/v1/Image/AzRMS_Tutorial_2_Final_50_.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1460,7 +1460,7 @@
 * Dependency From: oltest1_azureright\v1\Topic\Quick_Start_Tutorial_for_Azure_Rights_Management.md
 * [Back to Top](#report-top)
 
-##### <a name='0a855d29a709c18e0819ac5a4afd097f3d1f6f3d94'></a> Source: [oltest1_azureright\v1\Image\AzRMS_Tutorial_3_Final2.png](https://github.com/kimizhu/oltest1_azureright/blob/c67e9099e92ae236888c104c177a9624ec146b01/oltest1_azureright/v1/Image/AzRMS_Tutorial_3_Final2.png)
+##### <a name='0a855d29a709c18e0819ac5a4afd097f3d1f6f3d94'></a> Source: [oltest1_azureright\v1\Image\AzRMS_Tutorial_3_Final2.png](https://github.com/kimizhu/oltest1_azureright/blob/5fb792114faa09d27a323e1b5e95dbd46874bfed/oltest1_azureright/v1/Image/AzRMS_Tutorial_3_Final2.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1550,7 +1550,7 @@
 * Dependency From: oltest1_azureright\v1\Topic\Scenario_-_Share_an_Office_File_with_Users_in_Another_Organization.md
 * [Back to Top](#report-top)
 
-##### <a name='4e662625c2d4459b521253299e71e601c1f5401a101'></a> Source: [oltest1_azureright\v1\Image\Azure-RMS_Step-4_Cascade.png](https://github.com/kimizhu/oltest1_azureright/blob/c67e9099e92ae236888c104c177a9624ec146b01/oltest1_azureright/v1/Image/Azure-RMS_Step-4_Cascade.png)
+##### <a name='4e662625c2d4459b521253299e71e601c1f5401a101'></a> Source: [oltest1_azureright\v1\Image\Azure-RMS_Step-4_Cascade.png](https://github.com/kimizhu/oltest1_azureright/blob/5fb792114faa09d27a323e1b5e95dbd46874bfed/oltest1_azureright/v1/Image/Azure-RMS_Step-4_Cascade.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1562,7 +1562,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='fe55e2425573de7bbb0d402b4b4428aad8108098102'></a> Source: [oltest1_azureright\v1\Image\Azure-RMS_Step-5_Cascade.png](https://github.com/kimizhu/oltest1_azureright/blob/c67e9099e92ae236888c104c177a9624ec146b01/oltest1_azureright/v1/Image/Azure-RMS_Step-5_Cascade.png)
+##### <a name='fe55e2425573de7bbb0d402b4b4428aad8108098102'></a> Source: [oltest1_azureright\v1\Image\Azure-RMS_Step-5_Cascade.png](https://github.com/kimizhu/oltest1_azureright/blob/5fb792114faa09d27a323e1b5e95dbd46874bfed/oltest1_azureright/v1/Image/Azure-RMS_Step-5_Cascade.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
