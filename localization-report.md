@@ -10,8 +10,8 @@
 [ Archive Success Files ](#archive-success-list)| 0
 [ Handback Failed Files ](#handback-failed-list)| 0
 [ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 0
-[ In Sync Handback Files ](#insync-handback-success-list)| 0
-[ Ignored Files ](#ignored-list)| 76
+[ In Sync Handback Files ](#insync-handback-success-list)| 63
+[ Ignored Files ](#ignored-list)| 13
 
 ## <a name='handoff-failed-list'></a> Handoff Failed File List
  Source File | Status | Details 
@@ -166,6 +166,71 @@
 ## <a name='outofsync-handback-success-list'></a> Out Of Sync Handback Success File List
 
 ## <a name='insync-handback-success-list'></a> In Sync Handback File Success List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [oltest1_azureright\v1\Topic\Activating_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Activating_Azure_Rights_Management.md) | InSyncHandedBackSuccess | [Details](#9a4fa874a866c63638dcda1d9c5e686e12da70d2130)
+ [oltest1_azureright\v1\Topic\Administering_Azure_Rights_Management_by_Using_Windows_PowerShell.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Administering_Azure_Rights_Management_by_Using_Windows_PowerShell.md) | InSyncHandedBackSuccess | [Details](#3bd27fb713e2b0a71289cd8028bc2d5406241eae132)
+ [oltest1_azureright\v1\Topic\Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Azure_Rights_Management.md) | InSyncHandedBackSuccess | [Details](#cdfcad34349b041ceb2743018e43db141a324d1b133)
+ [oltest1_azureright\v1\Topic\Azure_Rights_Management_Deployment_Roadmap.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Azure_Rights_Management_Deployment_Roadmap.md) | InSyncHandedBackSuccess | [Details](#a599911557dcb5d8756051257f6dbe19d222be8c134)
+ [oltest1_azureright\v1\Topic\Comparing_Azure_Rights_Management_and_AD_RMS.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Comparing_Azure_Rights_Management_and_AD_RMS.md) | InSyncHandedBackSuccess | [Details](#74a17e58ad433b9652b4b8974981841e90f0a088135)
+ [oltest1_azureright\v1\Topic\Configuring_Applications_for_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Configuring_Applications_for_Azure_Rights_Management.md) | InSyncHandedBackSuccess | [Details](#3fff7a6d69b3be986f4be35ab0479d9e05502ac8136)
+ [oltest1_azureright\v1\Topic\Configuring_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Configuring_Azure_Rights_Management.md) | InSyncHandedBackSuccess | [Details](#7b4ef01b63e49eff3eb6f518f0e0985911151b3d137)
+ [oltest1_azureright\v1\Topic\Configuring_Custom_Templates_for_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Configuring_Custom_Templates_for_Azure_Rights_Management.md) | InSyncHandedBackSuccess | [Details](#bd4e79a387d260678f19a16d0ad1393f8cb3ffa2138)
+ [oltest1_azureright\v1\Topic\Configuring_Super_Users_for_Azure_Rights_Management_and_Discovery_Services_or_Data_Recovery.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Configuring_Super_Users_for_Azure_Rights_Management_and_Discovery_Services_or_Data_Recovery.md) | InSyncHandedBackSuccess | [Details](#495574d749982eaa2c2793fe96afbdd6193e0d4a139)
+ [oltest1_azureright\v1\Topic\Configuring_Usage_Rights_for_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Configuring_Usage_Rights_for_Azure_Rights_Management.md) | InSyncHandedBackSuccess | [Details](#7df2211c20253d6f53d525a28b4df7a3e3863081140)
+ [oltest1_azureright\v1\Topic\Decommissioning_and_Deactivating_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Decommissioning_and_Deactivating_Azure_Rights_Management.md) | InSyncHandedBackSuccess | [Details](#f34c47bd3d784417b52e4b63c7bdea01374161cb141)
+ [oltest1_azureright\v1\Topic\Deploying_the_Azure_Rights_Management_Connector.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Deploying_the_Azure_Rights_Management_Connector.md) | InSyncHandedBackSuccess | [Details](#6aab30fdd7a0fdceef4924d53eb35c505854cea8142)
+ [oltest1_azureright\v1\Topic\Dialog_box_options_for_the_Rights_Management_sharing_application.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Dialog_box_options_for_the_Rights_Management_sharing_application.md) | InSyncHandedBackSuccess | [Details](#0259b2f41fbce1be6b3015a9c051efc4b0ffca02143)
+ [oltest1_azureright\v1\Topic\Download_and_install_the_Rights_Management_sharing_application.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Download_and_install_the_Rights_Management_sharing_application.md) | InSyncHandedBackSuccess | [Details](#8005b72e4b5f8f6b10acb9ad8be0b40cb505b05e144)
+ [oltest1_azureright\v1\Topic\Frequently_Asked_Questions_for_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Frequently_Asked_Questions_for_Azure_Rights_Management.md) | InSyncHandedBackSuccess | [Details](#68c0bfd02a56e06debd407389e78228585fef2c5146)
+ [oltest1_azureright\v1\Topic\Full_screen_picture__A_SharePoint_protected_document.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Full_screen_picture__A_SharePoint_protected_document.md) | InSyncHandedBackSuccess | [Details](#f7b30be991395040a158ae272b8bf8b03de148da147)
+ [oltest1_azureright\v1\Topic\Full_screen_picture__Activating_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Full_screen_picture__Activating_Rights_Management.md) | InSyncHandedBackSuccess | [Details](#c200efea94afc3c4aa2a1c3aa5a484465fc07914148)
+ [oltest1_azureright\v1\Topic\Full_screen_picture__Alice_gets_email_notification.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Full_screen_picture__Alice_gets_email_notification.md) | InSyncHandedBackSuccess | [Details](#7886fc06dc57d52e430e2e6d28b3133f36ad5cd1149)
+ [oltest1_azureright\v1\Topic\Full_screen_picture__Alice_shares_protected_attachment.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Full_screen_picture__Alice_shares_protected_attachment.md) | InSyncHandedBackSuccess | [Details](#506a30fb9ab6ed93290b26f8489485afa71d10fa150)
+ [oltest1_azureright\v1\Topic\Full_screen_picture__An_external_email_protected_by_DLP_and_Azure_RMS.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Full_screen_picture__An_external_email_protected_by_DLP_and_Azure_RMS.md) | InSyncHandedBackSuccess | [Details](#ea95e48bf4056f120b36560cd402a15d46582ef5151)
+ [oltest1_azureright\v1\Topic\Full_screen_picture__An_unprotected_email__internal_.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Full_screen_picture__An_unprotected_email__internal_.md) | InSyncHandedBackSuccess | [Details](#e5419e35effe10c15e1d1cfd6e41db72576e6bb9152)
+ [oltest1_azureright\v1\Topic\Full_screen_picture__Available_settings_for_RMS_templates.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Full_screen_picture__Available_settings_for_RMS_templates.md) | InSyncHandedBackSuccess | [Details](#a25317a27a613acb1326b930ff7e6f48f443e769153)
+ [oltest1_azureright\v1\Topic\Full_screen_picture__Bob_opens_the_attachment_on_his_iPad.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Full_screen_picture__Bob_opens_the_attachment_on_his_iPad.md) | InSyncHandedBackSuccess | [Details](#1dc4b05fb4be8be9041a1fbec65f2af197f962f5154)
+ [oltest1_azureright\v1\Topic\Full_screen_picture__Bob_sees_the_email_on_his_iPad.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Full_screen_picture__Bob_sees_the_email_on_his_iPad.md) | InSyncHandedBackSuccess | [Details](#479e87f7ddf7ad9d1534d1a6bc245a536f692e08155)
+ [oltest1_azureright\v1\Topic\Full_screen_picture__Confidential_report_accidentally_sent_to_wrong_person.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Full_screen_picture__Confidential_report_accidentally_sent_to_wrong_person.md) | InSyncHandedBackSuccess | [Details](#4b22ee23ea4ac5edf967fa81eadc9c2d0f261d17156)
+ [oltest1_azureright\v1\Topic\Full_screen_picture__Configuring_DLP_for_Azure_RMS.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Full_screen_picture__Configuring_DLP_for_Azure_RMS.md) | InSyncHandedBackSuccess | [Details](#42ff63075704a2f4aa3f8194ddaaee460fbe4be0157)
+ [oltest1_azureright\v1\Topic\Full_screen_picture__Configuring_FCI_for_the_Marketing_classification.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Full_screen_picture__Configuring_FCI_for_the_Marketing_classification.md) | InSyncHandedBackSuccess | [Details](#4d5026f5c5b7c9e8cce0c61bec78e9c8d3573d19158)
+ [oltest1_azureright\v1\Topic\Full_screen_picture__Enabling_IRM_for_a_library.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Full_screen_picture__Enabling_IRM_for_a_library.md) | InSyncHandedBackSuccess | [Details](#d79fb69a8cf8196a81f9f674fff43deabe880074159)
+ [oltest1_azureright\v1\Topic\Full_screen_picture__Enabling_IRM_on_SharePoint_Online.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Full_screen_picture__Enabling_IRM_on_SharePoint_Online.md) | InSyncHandedBackSuccess | [Details](#33afc419471da383ebcadeeff403c66176b03b49160)
+ [oltest1_azureright\v1\Topic\Full_screen_picture__Installing_and_Configuring_the_RMS_connector_for_FCI.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Full_screen_picture__Installing_and_Configuring_the_RMS_connector_for_FCI.md) | InSyncHandedBackSuccess | [Details](#9f4e45737439793f18ad28d64f6fcc3586c8343f161)
+ [oltest1_azureright\v1\Topic\Full_screen_picture__RMS_templates_in_the_Azure_Management_Portal.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Full_screen_picture__RMS_templates_in_the_Azure_Management_Portal.md) | InSyncHandedBackSuccess | [Details](#85ff94247391ee654a33e7963f720ec0833d4c8f162)
+ [oltest1_azureright\v1\Topic\Full_screen_picture__Select_RMS_templates_in_applications,_such_as_File_Explorer_and_Word.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Full_screen_picture__Select_RMS_templates_in_applications,_such_as_File_Explorer_and_Word.md) | InSyncHandedBackSuccess | [Details](#8891ecea0c1316af88be00fd1acad3e7d6852c81163)
+ [oltest1_azureright\v1\Topic\Getting_Started_with_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Getting_Started_with_Azure_Rights_Management.md) | InSyncHandedBackSuccess | [Details](#cd268b3a52362794c148fd7033a2eb2b06ee5ded164)
+ [oltest1_azureright\v1\Topic\Helping_Users_to_Protect_Files_by_Using_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Helping_Users_to_Protect_Files_by_Using_Azure_Rights_Management.md) | InSyncHandedBackSuccess | [Details](#4c2c03d921a9dc1e6a09c09dc5504676300340a3165)
+ [oltest1_azureright\v1\Topic\How_Applications_Support_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/How_Applications_Support_Azure_Rights_Management.md) | InSyncHandedBackSuccess | [Details](#fe22011f9a191f3c44848ed914624650b26596eb166)
+ [oltest1_azureright\v1\Topic\Information_and_Support_for_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Information_and_Support_for_Azure_Rights_Management.md) | InSyncHandedBackSuccess | [Details](#1162685a1662728a2b613965c21abad1bfc99d0d168)
+ [oltest1_azureright\v1\Topic\Installing_Windows_PowerShell_for_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Installing_Windows_PowerShell_for_Azure_Rights_Management.md) | InSyncHandedBackSuccess | [Details](#2ab8099a56e548e53ddcd499d64221efbe7b2373169)
+ [oltest1_azureright\v1\Topic\Logging_and_Analyzing_Azure_Rights_Management_Usage.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Logging_and_Analyzing_Azure_Rights_Management_Usage.md) | InSyncHandedBackSuccess | [Details](#21396e646c7ef9f3cc33484ae35f7852d6aa3b28170)
+ [oltest1_azureright\v1\Topic\Migrating_from_AD_RMS_to_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Migrating_from_AD_RMS_to_Azure_Rights_Management.md) | InSyncHandedBackSuccess | [Details](#f995d5ed34fccf52854053826acfc421fbae9a47172)
+ [oltest1_azureright\v1\Topic\Operations_for_Your_Azure_Rights_Management_Tenant_Key.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Operations_for_Your_Azure_Rights_Management_Tenant_Key.md) | InSyncHandedBackSuccess | [Details](#ced4020d4beb1d4ab4bb522a339efa5628d1d5a7173)
+ [oltest1_azureright\v1\Topic\Planning_and_Implementing_Your_Azure_Rights_Management_Tenant_Key.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Planning_and_Implementing_Your_Azure_Rights_Management_Tenant_Key.md) | InSyncHandedBackSuccess | [Details](#9af6fcfa9319e1ffe53f36eab69af268d9c87bc1174)
+ [oltest1_azureright\v1\Topic\Preparing_for_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Preparing_for_Azure_Rights_Management.md) | InSyncHandedBackSuccess | [Details](#27f99957a9b9a560a127e6e3a4142ad0ba706d27175)
+ [oltest1_azureright\v1\Topic\Privacy_Statement_for_Microsoft_Rights_Management_in_RMS-Enlightened_Applications.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Privacy_Statement_for_Microsoft_Rights_Management_in_RMS-Enlightened_Applications.md) | InSyncHandedBackSuccess | [Details](#76830a8f8cf622532d860d256070c1a25193a394176)
+ [oltest1_azureright\v1\Topic\Protect_a_file_on_a_device__protect_in-place__by_using_the_Rights_Management_sharing_application.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Protect_a_file_on_a_device__protect_in-place__by_using_the_Rights_Management_sharing_application.md) | InSyncHandedBackSuccess | [Details](#a1898196752dccd5a40ffd784cc22d1c71ac7586177)
+ [oltest1_azureright\v1\Topic\Protect_a_file_that_you_share_by_email_by_using_the_Rights_Management_sharing_application.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Protect_a_file_that_you_share_by_email_by_using_the_Rights_Management_sharing_application.md) | InSyncHandedBackSuccess | [Details](#6866d71f52954e42bd01233f30f1e4ff3c32c73f178)
+ [oltest1_azureright\v1\Topic\Quick_Start_Tutorial_for_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Quick_Start_Tutorial_for_Azure_Rights_Management.md) | InSyncHandedBackSuccess | [Details](#def6572cdc54cdd9d9138afb7f73613cbcc653ba179)
+ [oltest1_azureright\v1\Topic\Remove_protection_from_a_file_by_using_the_Rights_Management_sharing_application.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Remove_protection_from_a_file_by_using_the_Rights_Management_sharing_application.md) | InSyncHandedBackSuccess | [Details](#b32088dd305d3f5dcdf48269680ca4482ccba271181)
+ [oltest1_azureright\v1\Topic\Requirements_for_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Requirements_for_Azure_Rights_Management.md) | InSyncHandedBackSuccess | [Details](#17cf32c975fe76663b66f6c8d351786783b1e7b4182)
+ [oltest1_azureright\v1\Topic\Rights_Management__RMS__Client.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Rights_Management__RMS__Client.md) | InSyncHandedBackSuccess | [Details](#3b43eafb5096d10e33f64b4228fcc331d293415c186)
+ [oltest1_azureright\v1\Topic\Rights_Management_sharing_application__Version_release_history.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Rights_Management_sharing_application__Version_release_history.md) | InSyncHandedBackSuccess | [Details](#5a124dc0ec9b75fef5d60b655203a064a6757d16187)
+ [oltest1_azureright\v1\Topic\Rights_Management_sharing_application_administrator_guide.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Rights_Management_sharing_application_administrator_guide.md) | InSyncHandedBackSuccess | [Details](#8c93e159ed76b884a87a1cf28d421b6d902a60b5188)
+ [oltest1_azureright\v1\Topic\Rights_Management_Sharing_Application_for_Windows.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Rights_Management_Sharing_Application_for_Windows.md) | InSyncHandedBackSuccess | [Details](#3dedf0a8cdc38e826f44ccc7fbf470f527d10309189)
+ [oltest1_azureright\v1\Topic\Rights_Management_sharing_application_user_guide.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Rights_Management_sharing_application_user_guide.md) | InSyncHandedBackSuccess | [Details](#be514cb225ed2ac7843c6c5f9c44895e53a52219190)
+ [oltest1_azureright\v1\Topic\RMS_Client_Deployment_Notes.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/RMS_Client_Deployment_Notes.md) | InSyncHandedBackSuccess | [Details](#6a3a13a49afbb6968f5c7c99273fe252acf039da192)
+ [oltest1_azureright\v1\Topic\RMS_for_Individuals_and_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/RMS_for_Individuals_and_Azure_Rights_Management.md) | InSyncHandedBackSuccess | [Details](#f06a400a824cdc0a4ad01b41c09b40c62531e5dc193)
+ [oltest1_azureright\v1\Topic\RMS_Protection_with_Windows_Server_File_Classification_Infrastructure__FCI_.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/RMS_Protection_with_Windows_Server_File_Classification_Infrastructure__FCI_.md) | InSyncHandedBackSuccess | [Details](#ac628b08e92ccdb5031990624cd6e71624d2f61e194)
+ [oltest1_azureright\v1\Topic\Terminology_for_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Terminology_for_Azure_Rights_Management.md) | InSyncHandedBackSuccess | [Details](#8f799713dbc7cddd5e1812d8904d90cebd4fd593202)
+ [oltest1_azureright\v1\Topic\Track_and_revoke_your_documents_when_you_use_the_RMS_sharing_application.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Track_and_revoke_your_documents_when_you_use_the_RMS_sharing_application.md) | InSyncHandedBackSuccess | [Details](#886a9469557d96a6e86201db5aada60607a6fc1f204)
+ [oltest1_azureright\v1\Topic\Use_keyboard_shortcuts_in_the_Rights_Management_sharing_application.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Use_keyboard_shortcuts_in_the_Rights_Management_sharing_application.md) | InSyncHandedBackSuccess | [Details](#19108d2d799d00223658e0319d09184cb8cee03f205)
+ [oltest1_azureright\v1\Topic\Using_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Using_Azure_Rights_Management.md) | InSyncHandedBackSuccess | [Details](#9951dd37ad7cb7d3366da4e5d91d60cdcf09d3b9206)
+ [oltest1_azureright\v1\Topic\Verifying_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Verifying_Azure_Rights_Management.md) | InSyncHandedBackSuccess | [Details](#00d2f85391fa70bc782aef6db4a127730f9afc08207)
+ [oltest1_azureright\v1\Topic\View_and_use_files_that_have_been_protected_by_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/View_and_use_files_that_have_been_protected_by_Rights_Management.md) | InSyncHandedBackSuccess | [Details](#c6f43e74df2f482240ea769f81eba10b4dbe4fc5208)
+ [oltest1_azureright\v1\Topic\What_is_Azure_Rights_Management_.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/What_is_Azure_Rights_Management_.md) | InSyncHandedBackSuccess | [Details](#8590c552cf1c89ebecffa587090d3ab84711aa9e211)
 
 ## <a name='ignored-list'></a> Ignored File List
  Source File | Status | Details 
@@ -183,69 +248,6 @@
  [oltest1_azureright\v1\Image\AzRMS_Tutorial_3_Final2.png](https://github.com/kimizhu/oltest1_azureright/blob/c67e9099e92ae236888c104c177a9624ec146b01/oltest1_azureright/v1/Image/AzRMS_Tutorial_3_Final2.png) | Ignored | [Details](#0a855d29a709c18e0819ac5a4afd097f3d1f6f3d94)
  [oltest1_azureright\v1\Image\Azure-RMS_Step-4_Cascade.png](https://github.com/kimizhu/oltest1_azureright/blob/c67e9099e92ae236888c104c177a9624ec146b01/oltest1_azureright/v1/Image/Azure-RMS_Step-4_Cascade.png) | Ignored | [Details](#4e662625c2d4459b521253299e71e601c1f5401a101)
  [oltest1_azureright\v1\Image\Azure-RMS_Step-5_Cascade.png](https://github.com/kimizhu/oltest1_azureright/blob/c67e9099e92ae236888c104c177a9624ec146b01/oltest1_azureright/v1/Image/Azure-RMS_Step-5_Cascade.png) | Ignored | [Details](#fe55e2425573de7bbb0d402b4b4428aad8108098102)
- [oltest1_azureright\v1\Topic\Activating_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Activating_Azure_Rights_Management.md) | Ignored | [Details](#9a4fa874a866c63638dcda1d9c5e686e12da70d2130)
- [oltest1_azureright\v1\Topic\Administering_Azure_Rights_Management_by_Using_Windows_PowerShell.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Administering_Azure_Rights_Management_by_Using_Windows_PowerShell.md) | Ignored | [Details](#3bd27fb713e2b0a71289cd8028bc2d5406241eae132)
- [oltest1_azureright\v1\Topic\Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Azure_Rights_Management.md) | Ignored | [Details](#cdfcad34349b041ceb2743018e43db141a324d1b133)
- [oltest1_azureright\v1\Topic\Azure_Rights_Management_Deployment_Roadmap.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Azure_Rights_Management_Deployment_Roadmap.md) | Ignored | [Details](#a599911557dcb5d8756051257f6dbe19d222be8c134)
- [oltest1_azureright\v1\Topic\Comparing_Azure_Rights_Management_and_AD_RMS.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Comparing_Azure_Rights_Management_and_AD_RMS.md) | Ignored | [Details](#74a17e58ad433b9652b4b8974981841e90f0a088135)
- [oltest1_azureright\v1\Topic\Configuring_Applications_for_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Configuring_Applications_for_Azure_Rights_Management.md) | Ignored | [Details](#3fff7a6d69b3be986f4be35ab0479d9e05502ac8136)
- [oltest1_azureright\v1\Topic\Configuring_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Configuring_Azure_Rights_Management.md) | Ignored | [Details](#7b4ef01b63e49eff3eb6f518f0e0985911151b3d137)
- [oltest1_azureright\v1\Topic\Configuring_Custom_Templates_for_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Configuring_Custom_Templates_for_Azure_Rights_Management.md) | Ignored | [Details](#bd4e79a387d260678f19a16d0ad1393f8cb3ffa2138)
- [oltest1_azureright\v1\Topic\Configuring_Super_Users_for_Azure_Rights_Management_and_Discovery_Services_or_Data_Recovery.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Configuring_Super_Users_for_Azure_Rights_Management_and_Discovery_Services_or_Data_Recovery.md) | Ignored | [Details](#495574d749982eaa2c2793fe96afbdd6193e0d4a139)
- [oltest1_azureright\v1\Topic\Configuring_Usage_Rights_for_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Configuring_Usage_Rights_for_Azure_Rights_Management.md) | Ignored | [Details](#7df2211c20253d6f53d525a28b4df7a3e3863081140)
- [oltest1_azureright\v1\Topic\Decommissioning_and_Deactivating_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Decommissioning_and_Deactivating_Azure_Rights_Management.md) | Ignored | [Details](#f34c47bd3d784417b52e4b63c7bdea01374161cb141)
- [oltest1_azureright\v1\Topic\Deploying_the_Azure_Rights_Management_Connector.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Deploying_the_Azure_Rights_Management_Connector.md) | Ignored | [Details](#6aab30fdd7a0fdceef4924d53eb35c505854cea8142)
- [oltest1_azureright\v1\Topic\Dialog_box_options_for_the_Rights_Management_sharing_application.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Dialog_box_options_for_the_Rights_Management_sharing_application.md) | Ignored | [Details](#0259b2f41fbce1be6b3015a9c051efc4b0ffca02143)
- [oltest1_azureright\v1\Topic\Download_and_install_the_Rights_Management_sharing_application.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Download_and_install_the_Rights_Management_sharing_application.md) | Ignored | [Details](#8005b72e4b5f8f6b10acb9ad8be0b40cb505b05e144)
- [oltest1_azureright\v1\Topic\Frequently_Asked_Questions_for_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Frequently_Asked_Questions_for_Azure_Rights_Management.md) | Ignored | [Details](#68c0bfd02a56e06debd407389e78228585fef2c5146)
- [oltest1_azureright\v1\Topic\Full_screen_picture__A_SharePoint_protected_document.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Full_screen_picture__A_SharePoint_protected_document.md) | Ignored | [Details](#f7b30be991395040a158ae272b8bf8b03de148da147)
- [oltest1_azureright\v1\Topic\Full_screen_picture__Activating_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Full_screen_picture__Activating_Rights_Management.md) | Ignored | [Details](#c200efea94afc3c4aa2a1c3aa5a484465fc07914148)
- [oltest1_azureright\v1\Topic\Full_screen_picture__Alice_gets_email_notification.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Full_screen_picture__Alice_gets_email_notification.md) | Ignored | [Details](#7886fc06dc57d52e430e2e6d28b3133f36ad5cd1149)
- [oltest1_azureright\v1\Topic\Full_screen_picture__Alice_shares_protected_attachment.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Full_screen_picture__Alice_shares_protected_attachment.md) | Ignored | [Details](#506a30fb9ab6ed93290b26f8489485afa71d10fa150)
- [oltest1_azureright\v1\Topic\Full_screen_picture__An_external_email_protected_by_DLP_and_Azure_RMS.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Full_screen_picture__An_external_email_protected_by_DLP_and_Azure_RMS.md) | Ignored | [Details](#ea95e48bf4056f120b36560cd402a15d46582ef5151)
- [oltest1_azureright\v1\Topic\Full_screen_picture__An_unprotected_email__internal_.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Full_screen_picture__An_unprotected_email__internal_.md) | Ignored | [Details](#e5419e35effe10c15e1d1cfd6e41db72576e6bb9152)
- [oltest1_azureright\v1\Topic\Full_screen_picture__Available_settings_for_RMS_templates.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Full_screen_picture__Available_settings_for_RMS_templates.md) | Ignored | [Details](#a25317a27a613acb1326b930ff7e6f48f443e769153)
- [oltest1_azureright\v1\Topic\Full_screen_picture__Bob_opens_the_attachment_on_his_iPad.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Full_screen_picture__Bob_opens_the_attachment_on_his_iPad.md) | Ignored | [Details](#1dc4b05fb4be8be9041a1fbec65f2af197f962f5154)
- [oltest1_azureright\v1\Topic\Full_screen_picture__Bob_sees_the_email_on_his_iPad.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Full_screen_picture__Bob_sees_the_email_on_his_iPad.md) | Ignored | [Details](#479e87f7ddf7ad9d1534d1a6bc245a536f692e08155)
- [oltest1_azureright\v1\Topic\Full_screen_picture__Confidential_report_accidentally_sent_to_wrong_person.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Full_screen_picture__Confidential_report_accidentally_sent_to_wrong_person.md) | Ignored | [Details](#4b22ee23ea4ac5edf967fa81eadc9c2d0f261d17156)
- [oltest1_azureright\v1\Topic\Full_screen_picture__Configuring_DLP_for_Azure_RMS.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Full_screen_picture__Configuring_DLP_for_Azure_RMS.md) | Ignored | [Details](#42ff63075704a2f4aa3f8194ddaaee460fbe4be0157)
- [oltest1_azureright\v1\Topic\Full_screen_picture__Configuring_FCI_for_the_Marketing_classification.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Full_screen_picture__Configuring_FCI_for_the_Marketing_classification.md) | Ignored | [Details](#4d5026f5c5b7c9e8cce0c61bec78e9c8d3573d19158)
- [oltest1_azureright\v1\Topic\Full_screen_picture__Enabling_IRM_for_a_library.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Full_screen_picture__Enabling_IRM_for_a_library.md) | Ignored | [Details](#d79fb69a8cf8196a81f9f674fff43deabe880074159)
- [oltest1_azureright\v1\Topic\Full_screen_picture__Enabling_IRM_on_SharePoint_Online.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Full_screen_picture__Enabling_IRM_on_SharePoint_Online.md) | Ignored | [Details](#33afc419471da383ebcadeeff403c66176b03b49160)
- [oltest1_azureright\v1\Topic\Full_screen_picture__Installing_and_Configuring_the_RMS_connector_for_FCI.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Full_screen_picture__Installing_and_Configuring_the_RMS_connector_for_FCI.md) | Ignored | [Details](#9f4e45737439793f18ad28d64f6fcc3586c8343f161)
- [oltest1_azureright\v1\Topic\Full_screen_picture__RMS_templates_in_the_Azure_Management_Portal.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Full_screen_picture__RMS_templates_in_the_Azure_Management_Portal.md) | Ignored | [Details](#85ff94247391ee654a33e7963f720ec0833d4c8f162)
- [oltest1_azureright\v1\Topic\Full_screen_picture__Select_RMS_templates_in_applications,_such_as_File_Explorer_and_Word.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Full_screen_picture__Select_RMS_templates_in_applications,_such_as_File_Explorer_and_Word.md) | Ignored | [Details](#8891ecea0c1316af88be00fd1acad3e7d6852c81163)
- [oltest1_azureright\v1\Topic\Getting_Started_with_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Getting_Started_with_Azure_Rights_Management.md) | Ignored | [Details](#cd268b3a52362794c148fd7033a2eb2b06ee5ded164)
- [oltest1_azureright\v1\Topic\Helping_Users_to_Protect_Files_by_Using_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Helping_Users_to_Protect_Files_by_Using_Azure_Rights_Management.md) | Ignored | [Details](#4c2c03d921a9dc1e6a09c09dc5504676300340a3165)
- [oltest1_azureright\v1\Topic\How_Applications_Support_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/How_Applications_Support_Azure_Rights_Management.md) | Ignored | [Details](#fe22011f9a191f3c44848ed914624650b26596eb166)
- [oltest1_azureright\v1\Topic\Information_and_Support_for_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Information_and_Support_for_Azure_Rights_Management.md) | Ignored | [Details](#1162685a1662728a2b613965c21abad1bfc99d0d168)
- [oltest1_azureright\v1\Topic\Installing_Windows_PowerShell_for_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Installing_Windows_PowerShell_for_Azure_Rights_Management.md) | Ignored | [Details](#2ab8099a56e548e53ddcd499d64221efbe7b2373169)
- [oltest1_azureright\v1\Topic\Logging_and_Analyzing_Azure_Rights_Management_Usage.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Logging_and_Analyzing_Azure_Rights_Management_Usage.md) | Ignored | [Details](#21396e646c7ef9f3cc33484ae35f7852d6aa3b28170)
- [oltest1_azureright\v1\Topic\Migrating_from_AD_RMS_to_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Migrating_from_AD_RMS_to_Azure_Rights_Management.md) | Ignored | [Details](#f995d5ed34fccf52854053826acfc421fbae9a47172)
- [oltest1_azureright\v1\Topic\Operations_for_Your_Azure_Rights_Management_Tenant_Key.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Operations_for_Your_Azure_Rights_Management_Tenant_Key.md) | Ignored | [Details](#ced4020d4beb1d4ab4bb522a339efa5628d1d5a7173)
- [oltest1_azureright\v1\Topic\Planning_and_Implementing_Your_Azure_Rights_Management_Tenant_Key.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Planning_and_Implementing_Your_Azure_Rights_Management_Tenant_Key.md) | Ignored | [Details](#9af6fcfa9319e1ffe53f36eab69af268d9c87bc1174)
- [oltest1_azureright\v1\Topic\Preparing_for_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Preparing_for_Azure_Rights_Management.md) | Ignored | [Details](#27f99957a9b9a560a127e6e3a4142ad0ba706d27175)
- [oltest1_azureright\v1\Topic\Privacy_Statement_for_Microsoft_Rights_Management_in_RMS-Enlightened_Applications.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Privacy_Statement_for_Microsoft_Rights_Management_in_RMS-Enlightened_Applications.md) | Ignored | [Details](#76830a8f8cf622532d860d256070c1a25193a394176)
- [oltest1_azureright\v1\Topic\Protect_a_file_on_a_device__protect_in-place__by_using_the_Rights_Management_sharing_application.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Protect_a_file_on_a_device__protect_in-place__by_using_the_Rights_Management_sharing_application.md) | Ignored | [Details](#a1898196752dccd5a40ffd784cc22d1c71ac7586177)
- [oltest1_azureright\v1\Topic\Protect_a_file_that_you_share_by_email_by_using_the_Rights_Management_sharing_application.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Protect_a_file_that_you_share_by_email_by_using_the_Rights_Management_sharing_application.md) | Ignored | [Details](#6866d71f52954e42bd01233f30f1e4ff3c32c73f178)
- [oltest1_azureright\v1\Topic\Quick_Start_Tutorial_for_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Quick_Start_Tutorial_for_Azure_Rights_Management.md) | Ignored | [Details](#def6572cdc54cdd9d9138afb7f73613cbcc653ba179)
- [oltest1_azureright\v1\Topic\Remove_protection_from_a_file_by_using_the_Rights_Management_sharing_application.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Remove_protection_from_a_file_by_using_the_Rights_Management_sharing_application.md) | Ignored | [Details](#b32088dd305d3f5dcdf48269680ca4482ccba271181)
- [oltest1_azureright\v1\Topic\Requirements_for_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Requirements_for_Azure_Rights_Management.md) | Ignored | [Details](#17cf32c975fe76663b66f6c8d351786783b1e7b4182)
- [oltest1_azureright\v1\Topic\Rights_Management__RMS__Client.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Rights_Management__RMS__Client.md) | Ignored | [Details](#3b43eafb5096d10e33f64b4228fcc331d293415c186)
- [oltest1_azureright\v1\Topic\Rights_Management_sharing_application__Version_release_history.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Rights_Management_sharing_application__Version_release_history.md) | Ignored | [Details](#5a124dc0ec9b75fef5d60b655203a064a6757d16187)
- [oltest1_azureright\v1\Topic\Rights_Management_sharing_application_administrator_guide.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Rights_Management_sharing_application_administrator_guide.md) | Ignored | [Details](#8c93e159ed76b884a87a1cf28d421b6d902a60b5188)
- [oltest1_azureright\v1\Topic\Rights_Management_Sharing_Application_for_Windows.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Rights_Management_Sharing_Application_for_Windows.md) | Ignored | [Details](#3dedf0a8cdc38e826f44ccc7fbf470f527d10309189)
- [oltest1_azureright\v1\Topic\Rights_Management_sharing_application_user_guide.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Rights_Management_sharing_application_user_guide.md) | Ignored | [Details](#be514cb225ed2ac7843c6c5f9c44895e53a52219190)
- [oltest1_azureright\v1\Topic\RMS_Client_Deployment_Notes.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/RMS_Client_Deployment_Notes.md) | Ignored | [Details](#6a3a13a49afbb6968f5c7c99273fe252acf039da192)
- [oltest1_azureright\v1\Topic\RMS_for_Individuals_and_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/RMS_for_Individuals_and_Azure_Rights_Management.md) | Ignored | [Details](#f06a400a824cdc0a4ad01b41c09b40c62531e5dc193)
- [oltest1_azureright\v1\Topic\RMS_Protection_with_Windows_Server_File_Classification_Infrastructure__FCI_.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/RMS_Protection_with_Windows_Server_File_Classification_Infrastructure__FCI_.md) | Ignored | [Details](#ac628b08e92ccdb5031990624cd6e71624d2f61e194)
- [oltest1_azureright\v1\Topic\Terminology_for_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Terminology_for_Azure_Rights_Management.md) | Ignored | [Details](#8f799713dbc7cddd5e1812d8904d90cebd4fd593202)
- [oltest1_azureright\v1\Topic\Track_and_revoke_your_documents_when_you_use_the_RMS_sharing_application.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Track_and_revoke_your_documents_when_you_use_the_RMS_sharing_application.md) | Ignored | [Details](#886a9469557d96a6e86201db5aada60607a6fc1f204)
- [oltest1_azureright\v1\Topic\Use_keyboard_shortcuts_in_the_Rights_Management_sharing_application.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Use_keyboard_shortcuts_in_the_Rights_Management_sharing_application.md) | Ignored | [Details](#19108d2d799d00223658e0319d09184cb8cee03f205)
- [oltest1_azureright\v1\Topic\Using_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Using_Azure_Rights_Management.md) | Ignored | [Details](#9951dd37ad7cb7d3366da4e5d91d60cdcf09d3b9206)
- [oltest1_azureright\v1\Topic\Verifying_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Verifying_Azure_Rights_Management.md) | Ignored | [Details](#00d2f85391fa70bc782aef6db4a127730f9afc08207)
- [oltest1_azureright\v1\Topic\View_and_use_files_that_have_been_protected_by_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/View_and_use_files_that_have_been_protected_by_Rights_Management.md) | Ignored | [Details](#c6f43e74df2f482240ea769f81eba10b4dbe4fc5208)
- [oltest1_azureright\v1\Topic\What_is_Azure_Rights_Management_.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/What_is_Azure_Rights_Management_.md) | Ignored | [Details](#8590c552cf1c89ebecffa587090d3ab84711aa9e211)
 
 ## Item Details
 ##### <a name='6b4edbda7411984fc9dbafbbb8e291e0bae6646d0'></a> Source: [.gitignore](https://github.com/kimizhu/oltest1_azureright/blob/c67e9099e92ae236888c104c177a9624ec146b01/.gitignore)
@@ -1904,7 +1906,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='9a4fa874a866c63638dcda1d9c5e686e12da70d2130'></a> Source: [oltest1_azureright\v1\Topic\Activating_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Activating_Azure_Rights_Management.md)
-* Status: Ignored
+* Status: InSyncHandedBackSuccess
 * Target File: [oltest1_azureright\v1\Topic\Activating_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright.da-dk/blob/d41b26554f4f32dc34f950ff9108a748288478d3/oltest1_azureright/v1/Topic/Activating_Azure_Rights_Management.md)
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
@@ -1928,7 +1930,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='3bd27fb713e2b0a71289cd8028bc2d5406241eae132'></a> Source: [oltest1_azureright\v1\Topic\Administering_Azure_Rights_Management_by_Using_Windows_PowerShell.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Administering_Azure_Rights_Management_by_Using_Windows_PowerShell.md)
-* Status: Ignored
+* Status: InSyncHandedBackSuccess
 * Target File: [oltest1_azureright\v1\Topic\Administering_Azure_Rights_Management_by_Using_Windows_PowerShell.md](https://github.com/kimizhu/oltest1_azureright.da-dk/blob/d41b26554f4f32dc34f950ff9108a748288478d3/oltest1_azureright/v1/Topic/Administering_Azure_Rights_Management_by_Using_Windows_PowerShell.md)
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
@@ -1940,7 +1942,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='cdfcad34349b041ceb2743018e43db141a324d1b133'></a> Source: [oltest1_azureright\v1\Topic\Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Azure_Rights_Management.md)
-* Status: Ignored
+* Status: InSyncHandedBackSuccess
 * Target File: [oltest1_azureright\v1\Topic\Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright.da-dk/blob/d41b26554f4f32dc34f950ff9108a748288478d3/oltest1_azureright/v1/Topic/Azure_Rights_Management.md)
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
@@ -1952,7 +1954,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='a599911557dcb5d8756051257f6dbe19d222be8c134'></a> Source: [oltest1_azureright\v1\Topic\Azure_Rights_Management_Deployment_Roadmap.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Azure_Rights_Management_Deployment_Roadmap.md)
-* Status: Ignored
+* Status: InSyncHandedBackSuccess
 * Target File: [oltest1_azureright\v1\Topic\Azure_Rights_Management_Deployment_Roadmap.md](https://github.com/kimizhu/oltest1_azureright.da-dk/blob/d41b26554f4f32dc34f950ff9108a748288478d3/oltest1_azureright/v1/Topic/Azure_Rights_Management_Deployment_Roadmap.md)
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
@@ -1964,7 +1966,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='74a17e58ad433b9652b4b8974981841e90f0a088135'></a> Source: [oltest1_azureright\v1\Topic\Comparing_Azure_Rights_Management_and_AD_RMS.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Comparing_Azure_Rights_Management_and_AD_RMS.md)
-* Status: Ignored
+* Status: InSyncHandedBackSuccess
 * Target File: [oltest1_azureright\v1\Topic\Comparing_Azure_Rights_Management_and_AD_RMS.md](https://github.com/kimizhu/oltest1_azureright.da-dk/blob/d41b26554f4f32dc34f950ff9108a748288478d3/oltest1_azureright/v1/Topic/Comparing_Azure_Rights_Management_and_AD_RMS.md)
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
@@ -1976,7 +1978,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='3fff7a6d69b3be986f4be35ab0479d9e05502ac8136'></a> Source: [oltest1_azureright\v1\Topic\Configuring_Applications_for_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Configuring_Applications_for_Azure_Rights_Management.md)
-* Status: Ignored
+* Status: InSyncHandedBackSuccess
 * Target File: [oltest1_azureright\v1\Topic\Configuring_Applications_for_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright.da-dk/blob/d41b26554f4f32dc34f950ff9108a748288478d3/oltest1_azureright/v1/Topic/Configuring_Applications_for_Azure_Rights_Management.md)
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
@@ -1988,7 +1990,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='7b4ef01b63e49eff3eb6f518f0e0985911151b3d137'></a> Source: [oltest1_azureright\v1\Topic\Configuring_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Configuring_Azure_Rights_Management.md)
-* Status: Ignored
+* Status: InSyncHandedBackSuccess
 * Target File: [oltest1_azureright\v1\Topic\Configuring_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright.da-dk/blob/d41b26554f4f32dc34f950ff9108a748288478d3/oltest1_azureright/v1/Topic/Configuring_Azure_Rights_Management.md)
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
@@ -2000,7 +2002,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='bd4e79a387d260678f19a16d0ad1393f8cb3ffa2138'></a> Source: [oltest1_azureright\v1\Topic\Configuring_Custom_Templates_for_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Configuring_Custom_Templates_for_Azure_Rights_Management.md)
-* Status: Ignored
+* Status: InSyncHandedBackSuccess
 * Target File: [oltest1_azureright\v1\Topic\Configuring_Custom_Templates_for_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright.da-dk/blob/d41b26554f4f32dc34f950ff9108a748288478d3/oltest1_azureright/v1/Topic/Configuring_Custom_Templates_for_Azure_Rights_Management.md)
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
@@ -2012,7 +2014,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='495574d749982eaa2c2793fe96afbdd6193e0d4a139'></a> Source: [oltest1_azureright\v1\Topic\Configuring_Super_Users_for_Azure_Rights_Management_and_Discovery_Services_or_Data_Recovery.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Configuring_Super_Users_for_Azure_Rights_Management_and_Discovery_Services_or_Data_Recovery.md)
-* Status: Ignored
+* Status: InSyncHandedBackSuccess
 * Target File: [oltest1_azureright\v1\Topic\Configuring_Super_Users_for_Azure_Rights_Management_and_Discovery_Services_or_Data_Recovery.md](https://github.com/kimizhu/oltest1_azureright.da-dk/blob/d41b26554f4f32dc34f950ff9108a748288478d3/oltest1_azureright/v1/Topic/Configuring_Super_Users_for_Azure_Rights_Management_and_Discovery_Services_or_Data_Recovery.md)
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
@@ -2024,7 +2026,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='7df2211c20253d6f53d525a28b4df7a3e3863081140'></a> Source: [oltest1_azureright\v1\Topic\Configuring_Usage_Rights_for_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Configuring_Usage_Rights_for_Azure_Rights_Management.md)
-* Status: Ignored
+* Status: InSyncHandedBackSuccess
 * Target File: [oltest1_azureright\v1\Topic\Configuring_Usage_Rights_for_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright.da-dk/blob/d41b26554f4f32dc34f950ff9108a748288478d3/oltest1_azureright/v1/Topic/Configuring_Usage_Rights_for_Azure_Rights_Management.md)
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
@@ -2036,7 +2038,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='f34c47bd3d784417b52e4b63c7bdea01374161cb141'></a> Source: [oltest1_azureright\v1\Topic\Decommissioning_and_Deactivating_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Decommissioning_and_Deactivating_Azure_Rights_Management.md)
-* Status: Ignored
+* Status: InSyncHandedBackSuccess
 * Target File: [oltest1_azureright\v1\Topic\Decommissioning_and_Deactivating_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright.da-dk/blob/d41b26554f4f32dc34f950ff9108a748288478d3/oltest1_azureright/v1/Topic/Decommissioning_and_Deactivating_Azure_Rights_Management.md)
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
@@ -2048,7 +2050,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='6aab30fdd7a0fdceef4924d53eb35c505854cea8142'></a> Source: [oltest1_azureright\v1\Topic\Deploying_the_Azure_Rights_Management_Connector.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Deploying_the_Azure_Rights_Management_Connector.md)
-* Status: Ignored
+* Status: InSyncHandedBackSuccess
 * Target File: [oltest1_azureright\v1\Topic\Deploying_the_Azure_Rights_Management_Connector.md](https://github.com/kimizhu/oltest1_azureright.da-dk/blob/d41b26554f4f32dc34f950ff9108a748288478d3/oltest1_azureright/v1/Topic/Deploying_the_Azure_Rights_Management_Connector.md)
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
@@ -2060,7 +2062,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='0259b2f41fbce1be6b3015a9c051efc4b0ffca02143'></a> Source: [oltest1_azureright\v1\Topic\Dialog_box_options_for_the_Rights_Management_sharing_application.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Dialog_box_options_for_the_Rights_Management_sharing_application.md)
-* Status: Ignored
+* Status: InSyncHandedBackSuccess
 * Target File: [oltest1_azureright\v1\Topic\Dialog_box_options_for_the_Rights_Management_sharing_application.md](https://github.com/kimizhu/oltest1_azureright.da-dk/blob/d41b26554f4f32dc34f950ff9108a748288478d3/oltest1_azureright/v1/Topic/Dialog_box_options_for_the_Rights_Management_sharing_application.md)
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
@@ -2072,7 +2074,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='8005b72e4b5f8f6b10acb9ad8be0b40cb505b05e144'></a> Source: [oltest1_azureright\v1\Topic\Download_and_install_the_Rights_Management_sharing_application.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Download_and_install_the_Rights_Management_sharing_application.md)
-* Status: Ignored
+* Status: InSyncHandedBackSuccess
 * Target File: [oltest1_azureright\v1\Topic\Download_and_install_the_Rights_Management_sharing_application.md](https://github.com/kimizhu/oltest1_azureright.da-dk/blob/d41b26554f4f32dc34f950ff9108a748288478d3/oltest1_azureright/v1/Topic/Download_and_install_the_Rights_Management_sharing_application.md)
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
@@ -2096,7 +2098,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='68c0bfd02a56e06debd407389e78228585fef2c5146'></a> Source: [oltest1_azureright\v1\Topic\Frequently_Asked_Questions_for_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Frequently_Asked_Questions_for_Azure_Rights_Management.md)
-* Status: Ignored
+* Status: InSyncHandedBackSuccess
 * Target File: [oltest1_azureright\v1\Topic\Frequently_Asked_Questions_for_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright.da-dk/blob/d41b26554f4f32dc34f950ff9108a748288478d3/oltest1_azureright/v1/Topic/Frequently_Asked_Questions_for_Azure_Rights_Management.md)
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
@@ -2108,7 +2110,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='f7b30be991395040a158ae272b8bf8b03de148da147'></a> Source: [oltest1_azureright\v1\Topic\Full_screen_picture__A_SharePoint_protected_document.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Full_screen_picture__A_SharePoint_protected_document.md)
-* Status: Ignored
+* Status: InSyncHandedBackSuccess
 * Target File: [oltest1_azureright\v1\Topic\Full_screen_picture__A_SharePoint_protected_document.md](https://github.com/kimizhu/oltest1_azureright.da-dk/blob/d41b26554f4f32dc34f950ff9108a748288478d3/oltest1_azureright/v1/Topic/Full_screen_picture__A_SharePoint_protected_document.md)
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
@@ -2120,7 +2122,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='c200efea94afc3c4aa2a1c3aa5a484465fc07914148'></a> Source: [oltest1_azureright\v1\Topic\Full_screen_picture__Activating_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Full_screen_picture__Activating_Rights_Management.md)
-* Status: Ignored
+* Status: InSyncHandedBackSuccess
 * Target File: [oltest1_azureright\v1\Topic\Full_screen_picture__Activating_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright.da-dk/blob/d41b26554f4f32dc34f950ff9108a748288478d3/oltest1_azureright/v1/Topic/Full_screen_picture__Activating_Rights_Management.md)
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
@@ -2132,7 +2134,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='7886fc06dc57d52e430e2e6d28b3133f36ad5cd1149'></a> Source: [oltest1_azureright\v1\Topic\Full_screen_picture__Alice_gets_email_notification.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Full_screen_picture__Alice_gets_email_notification.md)
-* Status: Ignored
+* Status: InSyncHandedBackSuccess
 * Target File: [oltest1_azureright\v1\Topic\Full_screen_picture__Alice_gets_email_notification.md](https://github.com/kimizhu/oltest1_azureright.da-dk/blob/d41b26554f4f32dc34f950ff9108a748288478d3/oltest1_azureright/v1/Topic/Full_screen_picture__Alice_gets_email_notification.md)
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
@@ -2144,7 +2146,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='506a30fb9ab6ed93290b26f8489485afa71d10fa150'></a> Source: [oltest1_azureright\v1\Topic\Full_screen_picture__Alice_shares_protected_attachment.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Full_screen_picture__Alice_shares_protected_attachment.md)
-* Status: Ignored
+* Status: InSyncHandedBackSuccess
 * Target File: [oltest1_azureright\v1\Topic\Full_screen_picture__Alice_shares_protected_attachment.md](https://github.com/kimizhu/oltest1_azureright.da-dk/blob/d41b26554f4f32dc34f950ff9108a748288478d3/oltest1_azureright/v1/Topic/Full_screen_picture__Alice_shares_protected_attachment.md)
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
@@ -2156,7 +2158,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='ea95e48bf4056f120b36560cd402a15d46582ef5151'></a> Source: [oltest1_azureright\v1\Topic\Full_screen_picture__An_external_email_protected_by_DLP_and_Azure_RMS.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Full_screen_picture__An_external_email_protected_by_DLP_and_Azure_RMS.md)
-* Status: Ignored
+* Status: InSyncHandedBackSuccess
 * Target File: [oltest1_azureright\v1\Topic\Full_screen_picture__An_external_email_protected_by_DLP_and_Azure_RMS.md](https://github.com/kimizhu/oltest1_azureright.da-dk/blob/d41b26554f4f32dc34f950ff9108a748288478d3/oltest1_azureright/v1/Topic/Full_screen_picture__An_external_email_protected_by_DLP_and_Azure_RMS.md)
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
@@ -2168,7 +2170,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='e5419e35effe10c15e1d1cfd6e41db72576e6bb9152'></a> Source: [oltest1_azureright\v1\Topic\Full_screen_picture__An_unprotected_email__internal_.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Full_screen_picture__An_unprotected_email__internal_.md)
-* Status: Ignored
+* Status: InSyncHandedBackSuccess
 * Target File: [oltest1_azureright\v1\Topic\Full_screen_picture__An_unprotected_email__internal_.md](https://github.com/kimizhu/oltest1_azureright.da-dk/blob/d41b26554f4f32dc34f950ff9108a748288478d3/oltest1_azureright/v1/Topic/Full_screen_picture__An_unprotected_email__internal_.md)
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
@@ -2180,7 +2182,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='a25317a27a613acb1326b930ff7e6f48f443e769153'></a> Source: [oltest1_azureright\v1\Topic\Full_screen_picture__Available_settings_for_RMS_templates.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Full_screen_picture__Available_settings_for_RMS_templates.md)
-* Status: Ignored
+* Status: InSyncHandedBackSuccess
 * Target File: [oltest1_azureright\v1\Topic\Full_screen_picture__Available_settings_for_RMS_templates.md](https://github.com/kimizhu/oltest1_azureright.da-dk/blob/d41b26554f4f32dc34f950ff9108a748288478d3/oltest1_azureright/v1/Topic/Full_screen_picture__Available_settings_for_RMS_templates.md)
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
@@ -2192,7 +2194,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='1dc4b05fb4be8be9041a1fbec65f2af197f962f5154'></a> Source: [oltest1_azureright\v1\Topic\Full_screen_picture__Bob_opens_the_attachment_on_his_iPad.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Full_screen_picture__Bob_opens_the_attachment_on_his_iPad.md)
-* Status: Ignored
+* Status: InSyncHandedBackSuccess
 * Target File: [oltest1_azureright\v1\Topic\Full_screen_picture__Bob_opens_the_attachment_on_his_iPad.md](https://github.com/kimizhu/oltest1_azureright.da-dk/blob/d41b26554f4f32dc34f950ff9108a748288478d3/oltest1_azureright/v1/Topic/Full_screen_picture__Bob_opens_the_attachment_on_his_iPad.md)
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
@@ -2204,7 +2206,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='479e87f7ddf7ad9d1534d1a6bc245a536f692e08155'></a> Source: [oltest1_azureright\v1\Topic\Full_screen_picture__Bob_sees_the_email_on_his_iPad.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Full_screen_picture__Bob_sees_the_email_on_his_iPad.md)
-* Status: Ignored
+* Status: InSyncHandedBackSuccess
 * Target File: [oltest1_azureright\v1\Topic\Full_screen_picture__Bob_sees_the_email_on_his_iPad.md](https://github.com/kimizhu/oltest1_azureright.da-dk/blob/d41b26554f4f32dc34f950ff9108a748288478d3/oltest1_azureright/v1/Topic/Full_screen_picture__Bob_sees_the_email_on_his_iPad.md)
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
@@ -2216,7 +2218,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='4b22ee23ea4ac5edf967fa81eadc9c2d0f261d17156'></a> Source: [oltest1_azureright\v1\Topic\Full_screen_picture__Confidential_report_accidentally_sent_to_wrong_person.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Full_screen_picture__Confidential_report_accidentally_sent_to_wrong_person.md)
-* Status: Ignored
+* Status: InSyncHandedBackSuccess
 * Target File: [oltest1_azureright\v1\Topic\Full_screen_picture__Confidential_report_accidentally_sent_to_wrong_person.md](https://github.com/kimizhu/oltest1_azureright.da-dk/blob/d41b26554f4f32dc34f950ff9108a748288478d3/oltest1_azureright/v1/Topic/Full_screen_picture__Confidential_report_accidentally_sent_to_wrong_person.md)
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
@@ -2228,7 +2230,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='42ff63075704a2f4aa3f8194ddaaee460fbe4be0157'></a> Source: [oltest1_azureright\v1\Topic\Full_screen_picture__Configuring_DLP_for_Azure_RMS.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Full_screen_picture__Configuring_DLP_for_Azure_RMS.md)
-* Status: Ignored
+* Status: InSyncHandedBackSuccess
 * Target File: [oltest1_azureright\v1\Topic\Full_screen_picture__Configuring_DLP_for_Azure_RMS.md](https://github.com/kimizhu/oltest1_azureright.da-dk/blob/d41b26554f4f32dc34f950ff9108a748288478d3/oltest1_azureright/v1/Topic/Full_screen_picture__Configuring_DLP_for_Azure_RMS.md)
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
@@ -2240,7 +2242,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='4d5026f5c5b7c9e8cce0c61bec78e9c8d3573d19158'></a> Source: [oltest1_azureright\v1\Topic\Full_screen_picture__Configuring_FCI_for_the_Marketing_classification.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Full_screen_picture__Configuring_FCI_for_the_Marketing_classification.md)
-* Status: Ignored
+* Status: InSyncHandedBackSuccess
 * Target File: [oltest1_azureright\v1\Topic\Full_screen_picture__Configuring_FCI_for_the_Marketing_classification.md](https://github.com/kimizhu/oltest1_azureright.da-dk/blob/d41b26554f4f32dc34f950ff9108a748288478d3/oltest1_azureright/v1/Topic/Full_screen_picture__Configuring_FCI_for_the_Marketing_classification.md)
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
@@ -2252,7 +2254,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='d79fb69a8cf8196a81f9f674fff43deabe880074159'></a> Source: [oltest1_azureright\v1\Topic\Full_screen_picture__Enabling_IRM_for_a_library.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Full_screen_picture__Enabling_IRM_for_a_library.md)
-* Status: Ignored
+* Status: InSyncHandedBackSuccess
 * Target File: [oltest1_azureright\v1\Topic\Full_screen_picture__Enabling_IRM_for_a_library.md](https://github.com/kimizhu/oltest1_azureright.da-dk/blob/d41b26554f4f32dc34f950ff9108a748288478d3/oltest1_azureright/v1/Topic/Full_screen_picture__Enabling_IRM_for_a_library.md)
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
@@ -2264,7 +2266,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='33afc419471da383ebcadeeff403c66176b03b49160'></a> Source: [oltest1_azureright\v1\Topic\Full_screen_picture__Enabling_IRM_on_SharePoint_Online.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Full_screen_picture__Enabling_IRM_on_SharePoint_Online.md)
-* Status: Ignored
+* Status: InSyncHandedBackSuccess
 * Target File: [oltest1_azureright\v1\Topic\Full_screen_picture__Enabling_IRM_on_SharePoint_Online.md](https://github.com/kimizhu/oltest1_azureright.da-dk/blob/d41b26554f4f32dc34f950ff9108a748288478d3/oltest1_azureright/v1/Topic/Full_screen_picture__Enabling_IRM_on_SharePoint_Online.md)
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
@@ -2276,7 +2278,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='9f4e45737439793f18ad28d64f6fcc3586c8343f161'></a> Source: [oltest1_azureright\v1\Topic\Full_screen_picture__Installing_and_Configuring_the_RMS_connector_for_FCI.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Full_screen_picture__Installing_and_Configuring_the_RMS_connector_for_FCI.md)
-* Status: Ignored
+* Status: InSyncHandedBackSuccess
 * Target File: [oltest1_azureright\v1\Topic\Full_screen_picture__Installing_and_Configuring_the_RMS_connector_for_FCI.md](https://github.com/kimizhu/oltest1_azureright.da-dk/blob/d41b26554f4f32dc34f950ff9108a748288478d3/oltest1_azureright/v1/Topic/Full_screen_picture__Installing_and_Configuring_the_RMS_connector_for_FCI.md)
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
@@ -2288,7 +2290,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='85ff94247391ee654a33e7963f720ec0833d4c8f162'></a> Source: [oltest1_azureright\v1\Topic\Full_screen_picture__RMS_templates_in_the_Azure_Management_Portal.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Full_screen_picture__RMS_templates_in_the_Azure_Management_Portal.md)
-* Status: Ignored
+* Status: InSyncHandedBackSuccess
 * Target File: [oltest1_azureright\v1\Topic\Full_screen_picture__RMS_templates_in_the_Azure_Management_Portal.md](https://github.com/kimizhu/oltest1_azureright.da-dk/blob/d41b26554f4f32dc34f950ff9108a748288478d3/oltest1_azureright/v1/Topic/Full_screen_picture__RMS_templates_in_the_Azure_Management_Portal.md)
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
@@ -2300,7 +2302,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='8891ecea0c1316af88be00fd1acad3e7d6852c81163'></a> Source: [oltest1_azureright\v1\Topic\Full_screen_picture__Select_RMS_templates_in_applications,_such_as_File_Explorer_and_Word.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Full_screen_picture__Select_RMS_templates_in_applications,_such_as_File_Explorer_and_Word.md)
-* Status: Ignored
+* Status: InSyncHandedBackSuccess
 * Target File: [oltest1_azureright\v1\Topic\Full_screen_picture__Select_RMS_templates_in_applications,_such_as_File_Explorer_and_Word.md](https://github.com/kimizhu/oltest1_azureright.da-dk/blob/d41b26554f4f32dc34f950ff9108a748288478d3/oltest1_azureright/v1/Topic/Full_screen_picture__Select_RMS_templates_in_applications,_such_as_File_Explorer_and_Word.md)
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
@@ -2312,7 +2314,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='cd268b3a52362794c148fd7033a2eb2b06ee5ded164'></a> Source: [oltest1_azureright\v1\Topic\Getting_Started_with_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Getting_Started_with_Azure_Rights_Management.md)
-* Status: Ignored
+* Status: InSyncHandedBackSuccess
 * Target File: [oltest1_azureright\v1\Topic\Getting_Started_with_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright.da-dk/blob/d41b26554f4f32dc34f950ff9108a748288478d3/oltest1_azureright/v1/Topic/Getting_Started_with_Azure_Rights_Management.md)
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
@@ -2324,7 +2326,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='4c2c03d921a9dc1e6a09c09dc5504676300340a3165'></a> Source: [oltest1_azureright\v1\Topic\Helping_Users_to_Protect_Files_by_Using_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Helping_Users_to_Protect_Files_by_Using_Azure_Rights_Management.md)
-* Status: Ignored
+* Status: InSyncHandedBackSuccess
 * Target File: [oltest1_azureright\v1\Topic\Helping_Users_to_Protect_Files_by_Using_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright.da-dk/blob/d41b26554f4f32dc34f950ff9108a748288478d3/oltest1_azureright/v1/Topic/Helping_Users_to_Protect_Files_by_Using_Azure_Rights_Management.md)
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
@@ -2336,7 +2338,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='fe22011f9a191f3c44848ed914624650b26596eb166'></a> Source: [oltest1_azureright\v1\Topic\How_Applications_Support_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/How_Applications_Support_Azure_Rights_Management.md)
-* Status: Ignored
+* Status: InSyncHandedBackSuccess
 * Target File: [oltest1_azureright\v1\Topic\How_Applications_Support_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright.da-dk/blob/d41b26554f4f32dc34f950ff9108a748288478d3/oltest1_azureright/v1/Topic/How_Applications_Support_Azure_Rights_Management.md)
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
@@ -2360,7 +2362,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='1162685a1662728a2b613965c21abad1bfc99d0d168'></a> Source: [oltest1_azureright\v1\Topic\Information_and_Support_for_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Information_and_Support_for_Azure_Rights_Management.md)
-* Status: Ignored
+* Status: InSyncHandedBackSuccess
 * Target File: [oltest1_azureright\v1\Topic\Information_and_Support_for_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright.da-dk/blob/d41b26554f4f32dc34f950ff9108a748288478d3/oltest1_azureright/v1/Topic/Information_and_Support_for_Azure_Rights_Management.md)
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
@@ -2372,7 +2374,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='2ab8099a56e548e53ddcd499d64221efbe7b2373169'></a> Source: [oltest1_azureright\v1\Topic\Installing_Windows_PowerShell_for_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Installing_Windows_PowerShell_for_Azure_Rights_Management.md)
-* Status: Ignored
+* Status: InSyncHandedBackSuccess
 * Target File: [oltest1_azureright\v1\Topic\Installing_Windows_PowerShell_for_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright.da-dk/blob/d41b26554f4f32dc34f950ff9108a748288478d3/oltest1_azureright/v1/Topic/Installing_Windows_PowerShell_for_Azure_Rights_Management.md)
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
@@ -2384,7 +2386,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='21396e646c7ef9f3cc33484ae35f7852d6aa3b28170'></a> Source: [oltest1_azureright\v1\Topic\Logging_and_Analyzing_Azure_Rights_Management_Usage.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Logging_and_Analyzing_Azure_Rights_Management_Usage.md)
-* Status: Ignored
+* Status: InSyncHandedBackSuccess
 * Target File: [oltest1_azureright\v1\Topic\Logging_and_Analyzing_Azure_Rights_Management_Usage.md](https://github.com/kimizhu/oltest1_azureright.da-dk/blob/d41b26554f4f32dc34f950ff9108a748288478d3/oltest1_azureright/v1/Topic/Logging_and_Analyzing_Azure_Rights_Management_Usage.md)
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
@@ -2408,7 +2410,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='f995d5ed34fccf52854053826acfc421fbae9a47172'></a> Source: [oltest1_azureright\v1\Topic\Migrating_from_AD_RMS_to_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Migrating_from_AD_RMS_to_Azure_Rights_Management.md)
-* Status: Ignored
+* Status: InSyncHandedBackSuccess
 * Target File: [oltest1_azureright\v1\Topic\Migrating_from_AD_RMS_to_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright.da-dk/blob/d41b26554f4f32dc34f950ff9108a748288478d3/oltest1_azureright/v1/Topic/Migrating_from_AD_RMS_to_Azure_Rights_Management.md)
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
@@ -2420,7 +2422,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='ced4020d4beb1d4ab4bb522a339efa5628d1d5a7173'></a> Source: [oltest1_azureright\v1\Topic\Operations_for_Your_Azure_Rights_Management_Tenant_Key.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Operations_for_Your_Azure_Rights_Management_Tenant_Key.md)
-* Status: Ignored
+* Status: InSyncHandedBackSuccess
 * Target File: [oltest1_azureright\v1\Topic\Operations_for_Your_Azure_Rights_Management_Tenant_Key.md](https://github.com/kimizhu/oltest1_azureright.da-dk/blob/d41b26554f4f32dc34f950ff9108a748288478d3/oltest1_azureright/v1/Topic/Operations_for_Your_Azure_Rights_Management_Tenant_Key.md)
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
@@ -2432,7 +2434,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='9af6fcfa9319e1ffe53f36eab69af268d9c87bc1174'></a> Source: [oltest1_azureright\v1\Topic\Planning_and_Implementing_Your_Azure_Rights_Management_Tenant_Key.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Planning_and_Implementing_Your_Azure_Rights_Management_Tenant_Key.md)
-* Status: Ignored
+* Status: InSyncHandedBackSuccess
 * Target File: [oltest1_azureright\v1\Topic\Planning_and_Implementing_Your_Azure_Rights_Management_Tenant_Key.md](https://github.com/kimizhu/oltest1_azureright.da-dk/blob/d41b26554f4f32dc34f950ff9108a748288478d3/oltest1_azureright/v1/Topic/Planning_and_Implementing_Your_Azure_Rights_Management_Tenant_Key.md)
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
@@ -2444,7 +2446,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='27f99957a9b9a560a127e6e3a4142ad0ba706d27175'></a> Source: [oltest1_azureright\v1\Topic\Preparing_for_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Preparing_for_Azure_Rights_Management.md)
-* Status: Ignored
+* Status: InSyncHandedBackSuccess
 * Target File: [oltest1_azureright\v1\Topic\Preparing_for_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright.da-dk/blob/d41b26554f4f32dc34f950ff9108a748288478d3/oltest1_azureright/v1/Topic/Preparing_for_Azure_Rights_Management.md)
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
@@ -2456,7 +2458,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='76830a8f8cf622532d860d256070c1a25193a394176'></a> Source: [oltest1_azureright\v1\Topic\Privacy_Statement_for_Microsoft_Rights_Management_in_RMS-Enlightened_Applications.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Privacy_Statement_for_Microsoft_Rights_Management_in_RMS-Enlightened_Applications.md)
-* Status: Ignored
+* Status: InSyncHandedBackSuccess
 * Target File: [oltest1_azureright\v1\Topic\Privacy_Statement_for_Microsoft_Rights_Management_in_RMS-Enlightened_Applications.md](https://github.com/kimizhu/oltest1_azureright.da-dk/blob/d41b26554f4f32dc34f950ff9108a748288478d3/oltest1_azureright/v1/Topic/Privacy_Statement_for_Microsoft_Rights_Management_in_RMS-Enlightened_Applications.md)
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
@@ -2468,7 +2470,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='a1898196752dccd5a40ffd784cc22d1c71ac7586177'></a> Source: [oltest1_azureright\v1\Topic\Protect_a_file_on_a_device__protect_in-place__by_using_the_Rights_Management_sharing_application.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Protect_a_file_on_a_device__protect_in-place__by_using_the_Rights_Management_sharing_application.md)
-* Status: Ignored
+* Status: InSyncHandedBackSuccess
 * Target File: [oltest1_azureright\v1\Topic\Protect_a_file_on_a_device__protect_in-place__by_using_the_Rights_Management_sharing_application.md](https://github.com/kimizhu/oltest1_azureright.da-dk/blob/d41b26554f4f32dc34f950ff9108a748288478d3/oltest1_azureright/v1/Topic/Protect_a_file_on_a_device__protect_in-place__by_using_the_Rights_Management_sharing_application.md)
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
@@ -2480,7 +2482,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='6866d71f52954e42bd01233f30f1e4ff3c32c73f178'></a> Source: [oltest1_azureright\v1\Topic\Protect_a_file_that_you_share_by_email_by_using_the_Rights_Management_sharing_application.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Protect_a_file_that_you_share_by_email_by_using_the_Rights_Management_sharing_application.md)
-* Status: Ignored
+* Status: InSyncHandedBackSuccess
 * Target File: [oltest1_azureright\v1\Topic\Protect_a_file_that_you_share_by_email_by_using_the_Rights_Management_sharing_application.md](https://github.com/kimizhu/oltest1_azureright.da-dk/blob/d41b26554f4f32dc34f950ff9108a748288478d3/oltest1_azureright/v1/Topic/Protect_a_file_that_you_share_by_email_by_using_the_Rights_Management_sharing_application.md)
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
@@ -2492,7 +2494,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='def6572cdc54cdd9d9138afb7f73613cbcc653ba179'></a> Source: [oltest1_azureright\v1\Topic\Quick_Start_Tutorial_for_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Quick_Start_Tutorial_for_Azure_Rights_Management.md)
-* Status: Ignored
+* Status: InSyncHandedBackSuccess
 * Target File: [oltest1_azureright\v1\Topic\Quick_Start_Tutorial_for_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright.da-dk/blob/d41b26554f4f32dc34f950ff9108a748288478d3/oltest1_azureright/v1/Topic/Quick_Start_Tutorial_for_Azure_Rights_Management.md)
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
@@ -2516,7 +2518,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='b32088dd305d3f5dcdf48269680ca4482ccba271181'></a> Source: [oltest1_azureright\v1\Topic\Remove_protection_from_a_file_by_using_the_Rights_Management_sharing_application.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Remove_protection_from_a_file_by_using_the_Rights_Management_sharing_application.md)
-* Status: Ignored
+* Status: InSyncHandedBackSuccess
 * Target File: [oltest1_azureright\v1\Topic\Remove_protection_from_a_file_by_using_the_Rights_Management_sharing_application.md](https://github.com/kimizhu/oltest1_azureright.da-dk/blob/d41b26554f4f32dc34f950ff9108a748288478d3/oltest1_azureright/v1/Topic/Remove_protection_from_a_file_by_using_the_Rights_Management_sharing_application.md)
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
@@ -2528,7 +2530,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='17cf32c975fe76663b66f6c8d351786783b1e7b4182'></a> Source: [oltest1_azureright\v1\Topic\Requirements_for_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Requirements_for_Azure_Rights_Management.md)
-* Status: Ignored
+* Status: InSyncHandedBackSuccess
 * Target File: [oltest1_azureright\v1\Topic\Requirements_for_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright.da-dk/blob/d41b26554f4f32dc34f950ff9108a748288478d3/oltest1_azureright/v1/Topic/Requirements_for_Azure_Rights_Management.md)
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
@@ -2577,7 +2579,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='3b43eafb5096d10e33f64b4228fcc331d293415c186'></a> Source: [oltest1_azureright\v1\Topic\Rights_Management__RMS__Client.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Rights_Management__RMS__Client.md)
-* Status: Ignored
+* Status: InSyncHandedBackSuccess
 * Target File: [oltest1_azureright\v1\Topic\Rights_Management__RMS__Client.md](https://github.com/kimizhu/oltest1_azureright.da-dk/blob/d41b26554f4f32dc34f950ff9108a748288478d3/oltest1_azureright/v1/Topic/Rights_Management__RMS__Client.md)
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
@@ -2589,7 +2591,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='5a124dc0ec9b75fef5d60b655203a064a6757d16187'></a> Source: [oltest1_azureright\v1\Topic\Rights_Management_sharing_application__Version_release_history.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Rights_Management_sharing_application__Version_release_history.md)
-* Status: Ignored
+* Status: InSyncHandedBackSuccess
 * Target File: [oltest1_azureright\v1\Topic\Rights_Management_sharing_application__Version_release_history.md](https://github.com/kimizhu/oltest1_azureright.da-dk/blob/d41b26554f4f32dc34f950ff9108a748288478d3/oltest1_azureright/v1/Topic/Rights_Management_sharing_application__Version_release_history.md)
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
@@ -2601,7 +2603,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='8c93e159ed76b884a87a1cf28d421b6d902a60b5188'></a> Source: [oltest1_azureright\v1\Topic\Rights_Management_sharing_application_administrator_guide.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Rights_Management_sharing_application_administrator_guide.md)
-* Status: Ignored
+* Status: InSyncHandedBackSuccess
 * Target File: [oltest1_azureright\v1\Topic\Rights_Management_sharing_application_administrator_guide.md](https://github.com/kimizhu/oltest1_azureright.da-dk/blob/d41b26554f4f32dc34f950ff9108a748288478d3/oltest1_azureright/v1/Topic/Rights_Management_sharing_application_administrator_guide.md)
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
@@ -2613,7 +2615,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='3dedf0a8cdc38e826f44ccc7fbf470f527d10309189'></a> Source: [oltest1_azureright\v1\Topic\Rights_Management_Sharing_Application_for_Windows.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Rights_Management_Sharing_Application_for_Windows.md)
-* Status: Ignored
+* Status: InSyncHandedBackSuccess
 * Target File: [oltest1_azureright\v1\Topic\Rights_Management_Sharing_Application_for_Windows.md](https://github.com/kimizhu/oltest1_azureright.da-dk/blob/d41b26554f4f32dc34f950ff9108a748288478d3/oltest1_azureright/v1/Topic/Rights_Management_Sharing_Application_for_Windows.md)
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
@@ -2625,7 +2627,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='be514cb225ed2ac7843c6c5f9c44895e53a52219190'></a> Source: [oltest1_azureright\v1\Topic\Rights_Management_sharing_application_user_guide.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Rights_Management_sharing_application_user_guide.md)
-* Status: Ignored
+* Status: InSyncHandedBackSuccess
 * Target File: [oltest1_azureright\v1\Topic\Rights_Management_sharing_application_user_guide.md](https://github.com/kimizhu/oltest1_azureright.da-dk/blob/d41b26554f4f32dc34f950ff9108a748288478d3/oltest1_azureright/v1/Topic/Rights_Management_sharing_application_user_guide.md)
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
@@ -2649,7 +2651,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='6a3a13a49afbb6968f5c7c99273fe252acf039da192'></a> Source: [oltest1_azureright\v1\Topic\RMS_Client_Deployment_Notes.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/RMS_Client_Deployment_Notes.md)
-* Status: Ignored
+* Status: InSyncHandedBackSuccess
 * Target File: [oltest1_azureright\v1\Topic\RMS_Client_Deployment_Notes.md](https://github.com/kimizhu/oltest1_azureright.da-dk/blob/d41b26554f4f32dc34f950ff9108a748288478d3/oltest1_azureright/v1/Topic/RMS_Client_Deployment_Notes.md)
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
@@ -2661,7 +2663,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='f06a400a824cdc0a4ad01b41c09b40c62531e5dc193'></a> Source: [oltest1_azureright\v1\Topic\RMS_for_Individuals_and_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/RMS_for_Individuals_and_Azure_Rights_Management.md)
-* Status: Ignored
+* Status: InSyncHandedBackSuccess
 * Target File: [oltest1_azureright\v1\Topic\RMS_for_Individuals_and_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright.da-dk/blob/d41b26554f4f32dc34f950ff9108a748288478d3/oltest1_azureright/v1/Topic/RMS_for_Individuals_and_Azure_Rights_Management.md)
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
@@ -2673,7 +2675,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='ac628b08e92ccdb5031990624cd6e71624d2f61e194'></a> Source: [oltest1_azureright\v1\Topic\RMS_Protection_with_Windows_Server_File_Classification_Infrastructure__FCI_.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/RMS_Protection_with_Windows_Server_File_Classification_Infrastructure__FCI_.md)
-* Status: Ignored
+* Status: InSyncHandedBackSuccess
 * Target File: [oltest1_azureright\v1\Topic\RMS_Protection_with_Windows_Server_File_Classification_Infrastructure__FCI_.md](https://github.com/kimizhu/oltest1_azureright.da-dk/blob/d41b26554f4f32dc34f950ff9108a748288478d3/oltest1_azureright/v1/Topic/RMS_Protection_with_Windows_Server_File_Classification_Infrastructure__FCI_.md)
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
@@ -2769,7 +2771,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='8f799713dbc7cddd5e1812d8904d90cebd4fd593202'></a> Source: [oltest1_azureright\v1\Topic\Terminology_for_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Terminology_for_Azure_Rights_Management.md)
-* Status: Ignored
+* Status: InSyncHandedBackSuccess
 * Target File: [oltest1_azureright\v1\Topic\Terminology_for_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright.da-dk/blob/d41b26554f4f32dc34f950ff9108a748288478d3/oltest1_azureright/v1/Topic/Terminology_for_Azure_Rights_Management.md)
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
@@ -2793,7 +2795,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='886a9469557d96a6e86201db5aada60607a6fc1f204'></a> Source: [oltest1_azureright\v1\Topic\Track_and_revoke_your_documents_when_you_use_the_RMS_sharing_application.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Track_and_revoke_your_documents_when_you_use_the_RMS_sharing_application.md)
-* Status: Ignored
+* Status: InSyncHandedBackSuccess
 * Target File: [oltest1_azureright\v1\Topic\Track_and_revoke_your_documents_when_you_use_the_RMS_sharing_application.md](https://github.com/kimizhu/oltest1_azureright.da-dk/blob/d41b26554f4f32dc34f950ff9108a748288478d3/oltest1_azureright/v1/Topic/Track_and_revoke_your_documents_when_you_use_the_RMS_sharing_application.md)
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
@@ -2805,7 +2807,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='19108d2d799d00223658e0319d09184cb8cee03f205'></a> Source: [oltest1_azureright\v1\Topic\Use_keyboard_shortcuts_in_the_Rights_Management_sharing_application.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Use_keyboard_shortcuts_in_the_Rights_Management_sharing_application.md)
-* Status: Ignored
+* Status: InSyncHandedBackSuccess
 * Target File: [oltest1_azureright\v1\Topic\Use_keyboard_shortcuts_in_the_Rights_Management_sharing_application.md](https://github.com/kimizhu/oltest1_azureright.da-dk/blob/d41b26554f4f32dc34f950ff9108a748288478d3/oltest1_azureright/v1/Topic/Use_keyboard_shortcuts_in_the_Rights_Management_sharing_application.md)
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
@@ -2817,7 +2819,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='9951dd37ad7cb7d3366da4e5d91d60cdcf09d3b9206'></a> Source: [oltest1_azureright\v1\Topic\Using_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Using_Azure_Rights_Management.md)
-* Status: Ignored
+* Status: InSyncHandedBackSuccess
 * Target File: [oltest1_azureright\v1\Topic\Using_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright.da-dk/blob/d41b26554f4f32dc34f950ff9108a748288478d3/oltest1_azureright/v1/Topic/Using_Azure_Rights_Management.md)
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
@@ -2829,7 +2831,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='00d2f85391fa70bc782aef6db4a127730f9afc08207'></a> Source: [oltest1_azureright\v1\Topic\Verifying_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Verifying_Azure_Rights_Management.md)
-* Status: Ignored
+* Status: InSyncHandedBackSuccess
 * Target File: [oltest1_azureright\v1\Topic\Verifying_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright.da-dk/blob/d41b26554f4f32dc34f950ff9108a748288478d3/oltest1_azureright/v1/Topic/Verifying_Azure_Rights_Management.md)
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
@@ -2841,7 +2843,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='c6f43e74df2f482240ea769f81eba10b4dbe4fc5208'></a> Source: [oltest1_azureright\v1\Topic\View_and_use_files_that_have_been_protected_by_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/View_and_use_files_that_have_been_protected_by_Rights_Management.md)
-* Status: Ignored
+* Status: InSyncHandedBackSuccess
 * Target File: [oltest1_azureright\v1\Topic\View_and_use_files_that_have_been_protected_by_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright.da-dk/blob/d41b26554f4f32dc34f950ff9108a748288478d3/oltest1_azureright/v1/Topic/View_and_use_files_that_have_been_protected_by_Rights_Management.md)
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
@@ -2877,7 +2879,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='8590c552cf1c89ebecffa587090d3ab84711aa9e211'></a> Source: [oltest1_azureright\v1\Topic\What_is_Azure_Rights_Management_.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/What_is_Azure_Rights_Management_.md)
-* Status: Ignored
+* Status: InSyncHandedBackSuccess
 * Target File: [oltest1_azureright\v1\Topic\What_is_Azure_Rights_Management_.md](https://github.com/kimizhu/oltest1_azureright.da-dk/blob/d41b26554f4f32dc34f950ff9108a748288478d3/oltest1_azureright/v1/Topic/What_is_Azure_Rights_Management_.md)
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
